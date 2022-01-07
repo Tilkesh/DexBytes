@@ -28,16 +28,16 @@ g) Support and Expansion
 #**Ecommerce Development** – Front End (HTML, CSS, JavaScript, Ajax, Jquery, React.Js), Server Side Scripting (PHP, Java, Node.Js), Database: (MySQL, MongoDB,  MSSQL).
 
 
-##**Our Technical Expertise** –
+## **Our Technical Expertise** 
 
-✔ Native Platform Development – iOS and Android 
-✔ Cross Platform Development - React Native, Flutter
-✔ Stacks: MERN, MEVN, MEAN, MEEN, LAMP
-✔ Front-end Development -  JavaScript, Ajax, xHTML, ReactJs, VueJs, HTML5, CSS3, SCSS, ES6/7, BootStrap, Webpack, etc
-✔ Back-end Development-  PHP (Laravel, CI, Cake PHP, Core PHP) - JavaScript/Node.js
-✔ Databases - MongoDB, Oracle, MySQL, MSSQL, NoSQL, SQL, PostgreSQL, SQLite
-✔ Cloud Services: Amazon Web Services, Google Cloud Platform, Firebase,  Azure
-✔ Scrum / Agile Environments:  Github, Bitbucket, Gitlab, Slack, Jira, Trello
+- [x] Native Platform Development – iOS and Android 
+- [x] Cross Platform Development - React Native, Flutter
+- [x] Stacks: MERN, MEVN, MEAN, MEEN, LAMP
+- [x] Front-end Development -  JavaScript, Ajax, xHTML, ReactJs, VueJs, HTML5, CSS3, SCSS, ES6/7, BootStrap, Webpack, etc
+- [x] Back-end Development-  PHP (Laravel, CI, Cake PHP, Core PHP) - JavaScript/Node.js
+- [x] Databases - MongoDB, Oracle, MySQL, MSSQL, NoSQL, SQL, PostgreSQL, SQLite
+- [x] Cloud Services: Amazon Web Services, Google Cloud Platform, Firebase,  Azure
+- [x] Scrum / Agile Environments:  Github, Bitbucket, Gitlab, Slack, Jira, Trello
 
 Awaiting to serve you with our experiences which we have earned with hundreds of projects successfully delivered.
 
@@ -45,9 +45,10 @@ Awaiting to serve you with our experiences which we have earned with hundreds of
 
 # Mobile development
 We come with the capabilities to handle the entire lifecycle of an android / iOS app, right from its designing to its maintenance. We strive to develop a scalable android / iOS app that meets your business goals and amplifies user engagement and retention. If you require a native app or cross-platform app, our services promise cutting-edge, customized solutions that cater to the business requirement in the best way.
-✔ Native iOS app : Objective-C/Swift
-✔ Native Android app : Java/Kotlin
-✔ Cross-platform app : React Native, Flutter
+
+- [x] Native iOS app : Objective-C/Swift
+- [x] Native Android app : Java/Kotlin
+- [x] Cross-platform app : React Native, Flutter
 
 # Web development
 DexBytes Infotech is one of the top web development companies who provide the custom web development services to its clients worldwide. We did 500+ different projects in Web development from websites based on CMS to complex SaaS platforms involving multiple technologies.
