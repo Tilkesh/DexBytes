@@ -19,15 +19,17 @@ g) Support and Expansion
 “We are doing less but doing best in our class”
 ##
 
-##The List of services Offered By DexBytes Infotech- 
--Mobile App Development – iOS, Android, Hybrid (Swift / Flutter / React Native )
+## **The List of services Offered By DexBytes Infotech** - 
 
--Web Solutions – PHP Development (Laravel, CodeIgniter, other frameworks of PHP), React.Js and Node.Js Development.
+#**Mobile App Development** – iOS, Android, Hybrid (Swift / Flutter / React Native )
 
--Ecommerce Development – Front End (HTML, CSS, JavaScript, Ajax, Jquery, React.Js), Server Side Scripting (PHP, Java, Node.Js), Database: (MySQL, MongoDB,  MSSQL).
+#**Web Solutions** – PHP Development (Laravel, CodeIgniter, other frameworks of PHP), React.Js and Node.Js Development.
+
+#**Ecommerce Development** – Front End (HTML, CSS, JavaScript, Ajax, Jquery, React.Js), Server Side Scripting (PHP, Java, Node.Js), Database: (MySQL, MongoDB,  MSSQL).
 
 
 ##**Our Technical Expertise** –
+
 ✔ Native Platform Development – iOS and Android 
 ✔ Cross Platform Development - React Native, Flutter
 ✔ Stacks: MERN, MEVN, MEAN, MEEN, LAMP
@@ -39,7 +41,8 @@ g) Support and Expansion
 
 Awaiting to serve you with our experiences which we have earned with hundreds of projects successfully delivered.
 
-##**Services**
+## **Services**
+
 # Mobile development
 We come with the capabilities to handle the entire lifecycle of an android / iOS app, right from its designing to its maintenance. We strive to develop a scalable android / iOS app that meets your business goals and amplifies user engagement and retention. If you require a native app or cross-platform app, our services promise cutting-edge, customized solutions that cater to the business requirement in the best way.
 ✔ Native iOS app : Objective-C/Swift
@@ -49,6 +52,7 @@ We come with the capabilities to handle the entire lifecycle of an android / iOS
 # Web development
 DexBytes Infotech is one of the top web development companies who provide the custom web development services to its clients worldwide. We did 500+ different projects in Web development from websites based on CMS to complex SaaS platforms involving multiple technologies.
 FULL Stack | MEAN Stack | MERN Stack 
+
 ✔ Cloud web apps | SaaS | Websites
 ✔ PHP | Laravel | CodeIgniter | CakePHP | CorePHP | Node Js | Java
 ✔ WordPress | Shopify | WooCommerce | Magento
@@ -58,6 +62,7 @@ FULL Stack | MEAN Stack | MERN Stack
 
 # Web and mobile design
 We have a team of UI/UX Experts and can provide you with profession design services as below. We’ll help you empower an online brand experience that showcases the power of your business. Our objective is to deliver a beautiful design that your customers will love and win customers for your business. 
+
 ✔ Web & Mobile App Designs
 ✔ Wireframes & Mockups Designing
 ✔ All type of branding designs for web & print purposes
@@ -65,6 +70,7 @@ We have a team of UI/UX Experts and can provide you with profession design servi
 
 # Ecommerce Development
 We do all kind of ecommerce stuff, starting from integrating a payment gateway to pixel perfect and cleanly coded CMS/Framework Web development services.
+
 ✔Custom E-Commerce Development | Shopify | BigCommerce | WooCommerce
 ✔Front End Development | UI / UX
 ✔PHP Frameworks & Database Programming
