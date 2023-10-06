@@ -1,0 +1,147 @@
+.nav-box {
+	position: absolute;
+	left: 3%;
+	right: 3%;
+	display: none;
+}
+.nav {
+	display: block;
+	width: 64px;
+	height: 64px;
+	position: absolute;
+	top: 75px;
+	z-index: 2;
+	border: 2px solid #fff;
+	border-radius: 50%;
+	color: #fff;
+	text-align: center;
+	font-size: 48px;
+	transition: background 0.75s ease;
+}
+.nav:hover {
+	background: rgba(255, 255, 255, 0.25);
+}
+.nav-prev {
+	left: 24px;
+}
+.nav-next {
+	right: 24px;
+}
+.nav-prev::before {
+	content: '\2039';
+}
+.nav-next::before {
+	content: '\203a';
+}
+.nav-inactive {
+	opacity: 0.1;
+}
+.slider-panel p {
+	white-space: normal;
+	word-wrap: break-word;
+	max-width: 97%;
+    margin-top: 30px;
+	font-weight: normal;
+}
+.slider {
+	margin-left: 0%;
+	width: 100%;
+	white-space: nowrap;
+	color: #676767;
+	text-align: center;
+	transition: margin-left 0.75s ease;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.slider h1 {
+	color: #343b41;
+}
+.slider-panel {
+	display: inline-block;
+	width: 100%;
+	margin-left: -1px;
+}
+.slider-item
+{
+	/*width: 80%;
+	max-width: 520px;*/
+	margin: 0 auto;
+}
+.slider-item img
+{
+	width: 80%;
+}
+.slider-item h1
+{
+	margin-top:20px;
+	text-align: left;
+	font-weight: 300;
+    font-size: 40px;
+    font-family: Roboto, sans-serif;
+}
+.slider-item h1 span
+{
+	color: #2378b1;
+}
+.tab-box
+{
+	margin: 20px 0;
+	width: 100%;
+	text-align: center;
+}
+.tab
+{
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	margin: 0 3.5%;
+	border: 1px solid #fff;
+	/*border-radius: 50%;*/
+	transition: background 0.75s ease;
+	opacity: 0.5;
+	cursor: pointer;
+}
+.myslider {
+	width:70%;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.tab:hover {
+	opacity: 1;
+}
+.tab-box span.tab
+{
+	width: 50px;
+	height: 50px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	border: 0;
+	margin-left: 0;
+}
+.tab-box span.tab:nth-child(1) {
+	background-image: url(../images/process_idea_small.svg);
+}
+.tab-box span.tab:nth-child(2) {
+	background-image: url(../images/process_market_small.svg);
+}
+.tab-box span.tab:nth-child(3) {
+	background-image: url(../images/process_responsive_small.svg);
+}
+.tab-box span.tab:nth-child(4) {
+	background-image: url(../images/process_design_small.svg);
+}
+.tab-box span.tab:nth-child(5) {
+	background-image: url(../images/process_code_small.svg);
+}
+.tab-box span.tab:nth-child(6) {
+	background-image: url(../images/process_testing_small.svg);
+}
+.tab-box span.tab:nth-child(7) {
+	background-image: url(../images/process_deploy_small.svg);
+}
+.tab-box span.tab:nth-child(8) {
+	background-image: url(../images/process_support_small.svg);
+}
+.tab-active {
+	opacity: 1;
+}

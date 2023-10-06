@@ -1,0 +1,773 @@
+.portfolio-content p.popap-text
+{
+	color: #FFF;
+}
+
+
+.navbar,
+.navbar-brand,
+.navbar-brand span {
+	-webkit-transition: all .5s ease;
+	transition: all .5s ease
+}
+
+.navbar-brand {
+	width: 180px;
+	background: url(https://www.dexbytes.com/images/logo.svg) 10px 5px no-repeat no-repeat;
+	margin-top: 17px;
+	background-size: 89%
+}
+
+.navbar-brand span {
+	background: url(https://www.dexbytes.com/new-aboutus/img/logo_txt.png) no-repeat;
+	width: 220px;
+	height: 51px;
+	position: relative;
+	display: inline-block;
+	left: -24px
+}
+
+.navbar-collapse ul ul {
+	padding-left: 30px
+}
+
+.navbar-collapse ul ul li {
+	padding: 3px 0;
+	font-family: sans-serif;
+	text-transform: initial;
+	font-size: 14px;
+	margin-top: 0
+}
+
+.navbar-collapse ul ul li:last-child {
+	padding-bottom: 0
+}
+
+.navbar-collapse ul ul li:first-child {
+	padding-top: 0
+}
+
+.navbar-collapse ul ul li a {
+	padding: 7px 10px;
+	transition: all .4s ease
+}
+
+.navbar-collapse ul ul li a:hover {
+	background-color: #0a7ec7;
+	border-radius: 19px
+}
+
+.navbar-collapse ul ul li a.active {
+	background-color: #0a7ec7;
+	color: #fff
+}
+
+.mix {
+	display: none;
+}
+.heading {
+	margin: 0px;
+	text-align: center;
+	color: #000;
+	position: relative;
+}
+.heading p {
+	font-size: 20px;
+	width: 80%;
+	margin: 0 auto;
+}
+.portfolio {
+    position: relative;
+	z-index: 10;
+	padding: 5% 0;
+}
+.portfolio .heading{
+	margin: 64px 0 0 0;
+}
+.portfolio .heading p {
+	color: #fb582b;
+	font-weight: normal;
+	margin-bottom: 40px;
+}
+/********************************************PORTFOLIO********************************************/
+.portfolio .container {
+	text-align: center;
+}
+.portfolio-item {
+	position: relative;
+	overflow: hidden;
+	margin: 10px;
+}
+.portfolio-item a:hover{
+	text-decoration: none;
+	color: #000;
+}
+.portfolio-item .mask {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	padding-top: 20%;
+	background: rgba(14, 49, 78, 0.9);
+	-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	opacity: 0;
+	-webkit-transition: all 0.3s ease-in 0.4s;
+	-moz-transition: all 0.3s ease-in 0.4s;
+	-o-transition: all 0.3s ease-in 0.4s;
+	transition: all 0.3s ease-in 0.4s;
+	z-index: 10;
+}
+.portfolio-item h4 {
+	-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	opacity: 0;
+	background: transparent;
+	margin: 20px 40px 0px 40px;
+	top: -10px;
+	position: relative;
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-webkit-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	display: inline-block;
+    z-index: 4;
+}
+.portfolio-item:hover .mask {
+	-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	opacity: 1;
+	-webkit-transition-delay: 0s;
+	-moz-transition-delay: 0s;
+	-o-transition-delay: 0s;
+	-ms-transition-delay: 0s;
+	transition-delay: 0s;
+}
+.portfolio-item img.img-responsive{
+	height: auto;
+	width: 312px;
+}
+.portfolio-item:hover h4 {
+	opacity: 1;
+}
+.portfolio-item .mask h4 {
+	margin: 0;
+	color: #fff;
+}
+.portfolio-item .mask h4, .portfolio-item .mask .video-house{
+	position: absolute;
+	height: 100%;
+	left: 0;
+	top: 0;
+	right: 0;
+	margin: auto;
+	padding-top: 35%;
+	cursor: pointer;
+}
+.portfolio-item:hover .mask .video-house {
+	z-index:  1;
+}
+.portfolio_zoom, .portfolio_appstore, .portfolio_googleplay, .portfolio_web
+{
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 130px;
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-webkit-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+}
+.portfolio_web
+{
+	left: 45%;
+}
+.portfolio_appstore a, .portfolio_googleplay a, .portfolio_web a
+{
+	display: block;
+	height: 40px;
+}
+.mask_popup h4:hover{
+	cursor: pointer;
+}
+.portfolio_appstore:hover {
+	background-image: url(../images/portfolio/appstore-hover.png);
+}
+.portfolio_appstore {
+	background-image: url(../images/portfolio/appstore.png);
+	z-index: 3;
+}
+.portfolio_googleplay {
+	background-image: url(../images/portfolio/googleplay.png);
+	z-index: 3;
+}
+.portfolio_googleplay:hover {
+	background-image: url(../images/portfolio/googleplay-hover.png);
+}
+.portfolio_zoom {
+	background-image: url(../images/portfolio/zoom.png);
+	z-index: 3;
+}
+.portfolio_zoom:hover{
+	background-image: url(../images/portfolio/zoom-hover.png);
+}
+
+.portfolio_web {
+	background-image: url(../images/portfolio/web.png);
+	z-index: 3;
+	opacity: 0.3;
+}
+.portfolio_web:hover{
+	background-image: url(../images/portfolio/web-hover.png);
+}
+.mask-double .one-i {
+	opacity: 0;
+	left: 80px;
+}
+.mask-double:hover .one-i{
+	opacity: 0.3;
+	pointer-events: none;
+	left: 103px
+}
+.mask-double .two-i {
+	opacity: 0;
+	right: 80px;
+}
+.mask-double:hover .two-i{
+	opacity: 0.3;
+	pointer-events: none;
+	right: 103px;
+}
+.mask-three .one-i{
+	opacity: 0;
+	left: 60px;
+}
+.mask-three:hover .one-i{
+	opacity: 0.3;
+	pointer-events: none;
+	left: 75px;
+}
+.mask-three .two-i{
+	opacity: 0;
+	top: 170px;
+	left: calc(50% - 20px);
+}
+.mask-three:hover .two-i{
+	opacity: 0.3;
+	pointer-events: none;
+	top: 130px;
+}
+.mask-three .three-i{
+	opacity: 0;
+	right: 60px;
+}
+.mask-three:hover .three-i{
+	opacity: 0.3;
+	pointer-events: none;
+	right: 75px;
+}
+.mask-one .one-i{
+	opacity: 0;
+	top: 170px;
+	left: calc(50% - 20px);
+}
+.mask-one:hover .one-i{
+	opacity: 0.3;
+	top: 130px;
+}
+.mask a:hover, .mask a:focus
+{
+	text-decoration: none;
+}
+.control-b-img li {
+	display: inline-block;
+	margin: 0 20px;
+}
+.control-b-img {
+	margin: 0 auto 30px;
+	text-align: center;
+}
+.control-b-img__link{
+	border: none;
+	background: #fff;
+	cursor: pointer;
+}
+.control-b-img__link:focus{
+	outline:0;
+}
+.control-b-img__link:hover{
+	color: #fb582b;
+}
+.control-b-img__link.active{
+	border-bottom: 5px solid #fb582b;
+	color: #fb582b;
+}
+#portfolio-img{
+	position: relative;
+	padding: 0;
+	margin: 0 auto 70px;
+	text-align: center;
+}
+#portfolio-img li.portfolio-item + li:not(.portfolio-item) {
+	display: inline;
+}
+.portfolio-popap{
+	color: #fff;
+	width: 100%;
+	z-index: 1110;
+	padding: 3% 0 5%;
+	display: none;
+	min-height: 700px;
+	height: calc(100vh);
+	top: 0;
+    position: fixed;
+	left: 0;
+}
+.portfolio-popap.eggy .popap-text{
+	max-width: 459px;
+}
+.portfolio-popap.eggy .popap-text, .portfolio-popap.vintage .popap-text, .portfolio-popap.piercing .popap-text, .portfolio-popap.staglist .popap-text
+{
+	margin-bottom: 15px;
+}
+.popap-result{
+	text-align: left;
+	margin-bottom: 30px;
+	font-weight: bold;
+	font-size: 18px;
+}
+.superagent{
+	background: url("../images/portfolio/superagent_bg.jpg") center center no-repeat;
+	background-size: cover;	
+}
+.flexiasia {
+	background: url("../images/portfolio/flexiasia_bg.jpg") center center no-repeat;
+	background-size: cover;
+}
+.widewalls
+{
+	background: url("../images/portfolio/widewalls_bg.jpg") repeat;
+}
+.icares{
+	background: url("../images/portfolio/icares_bg.png") center center no-repeat;
+	background-size: cover;
+	background-color: #FBC225;
+	color: #000;
+}
+.lyftaste{
+	background: url("../images/portfolio/lyftaste_Bg.jpg") right 0 no-repeat;
+	background-size: 100% 100%;
+}
+.lyftaste .popap-link_web {
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 5px;
+}
+.liveinloops
+{
+	background: url("../images/portfolio/liveinloops_bg.jpg") center center no-repeat;
+	background-size: cover;
+}
+.aircon{
+	background: url("../images/portfolio/aircon_bg.jpg") center center no-repeat;
+	background-size: cover;
+	color: #000;
+}
+.portfolio-popap__close.black_close
+{
+	background: url(../images/portfolio/close_dark.png) center center no-repeat!important;
+}
+.arrow_right_dark {
+    background: url(../images/portfolio/arrow-left_dark.png) center center no-repeat!important;
+	background-size: 90%!important;
+}
+.arrow_left_dark {
+    background: url(../images/portfolio/arrow-right_dark.png) center center no-repeat!important;
+	background-size: 90%!important;
+}
+.black .popap-title, .black .popap-text
+{
+	color: #000!important;
+}
+.isalon
+{
+	background: url("../images/portfolio/isalon_bg.jpg") right 0 no-repeat;
+	background-position: left center;
+}
+.syncom
+{
+	background: url("../images/portfolio/syncom_bg.jpg") center center no-repeat;
+	background-size: cover;
+}
+.smartcity{
+	background: url("../images/portfolio/smartcity_bg.png") center center no-repeat;
+	background-size: cover;
+	background-color: #FFF;
+}
+.happyrent{
+	background: url("../images/portfolio/happyrent_bg.jpg") center center no-repeat;
+	background-size: cover;
+	background-color: #FFF;
+}
+.portfolio-popap .popap-title, .portfolio-popap .popap-text{
+	text-align: left;
+}
+.portfolio-popap .popap-text{
+	margin-bottom: 30px;
+	margin-top: 0;
+}
+.portfolio-popap .popap-text .case-study{
+	display: inline-block;
+	margin-top: 10px;
+	color: #fff;
+	text-decoration: underline;
+}
+.portfolio-popap .popap-text .case-study:hover{
+	color: #fff;
+	text-decoration: none;
+}
+.portfolio-popap .column-right{
+	max-width: 459px;
+	min-height: 400px;
+}
+.popap-link{
+	float: left;
+	margin-top: 10px;
+}
+.popap-link_ios{
+	background: url(../images/portfolio/apple.png) center center no-repeat;
+	width: 150px;
+	height: 45px;
+	margin-right: 30px;
+}
+.popap-link_ios-white{
+	background: url(../images/portfolio/white-app.png) center center no-repeat;
+}
+.popap-link_google{
+	background: url(../images/portfolio/google.png) center center no-repeat;
+	width: 150px;
+	height: 45px;
+}
+.popap-link_web{
+	background: url(../images/portfolio/web_btn.png) center center no-repeat;
+	width: 150px;
+	height: 45px;
+}
+.popap-title{
+	font-size: 48px;
+	color: #fff;
+	padding: 5px 0 40px;
+	text-align: center;
+	margin: 0;
+	font-weight: 100;
+	margin-bottom: 0!important;
+	padding-bottom: 20px;
+}
+.portfolio-popap_app .popap-title{
+	text-align: left;
+}
+.popap-text{
+	font-size: 18px;
+	line-height: 27px;
+}
+.portfolio-popap_app .popap-text{
+	text-align: left;
+	max-width: 455px;
+	margin: 0 0 50px 0;
+}
+.portfolio-popap__close{
+	background: url(../images/portfolio/close.png) center center no-repeat;
+	position: absolute;
+	top: 30px;
+	width: 30px;
+	height: 30px;
+	right: 25px;
+}
+.arrow {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	top: 50%;
+}
+.arrow_left{
+	background: url(../images/portfolio/arrow-right.png) center center no-repeat;
+	left: 30px;
+}
+.arrow_right{
+	background: url(../images/portfolio/arrow-left.png) center center no-repeat;
+	right: 30px;
+}
+.portfolio-content{
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	position: absolute;
+	width: 100%;
+	display: inline-block;
+}
+.portfolio-content .col-md-7 img{
+	float: right;
+	max-width: 100%;
+}
+/***************************************** RESPONSIVE*****************************************/
+@media (min-width: 1400px)
+{
+	.portfolio-popap.babiinet img{
+		float: right;
+	}
+	.piercing img {
+		margin-left: 120px;
+	}
+}
+@media (min-width: 1600px)
+{
+	div.portfolio-popap .column-right
+	{
+		top: 50%;
+		right: 0;
+		transform: translate(-50%, -50%);
+		position: absolute;
+	}
+}
+@media (max-width: 1600px)
+{
+    .portfolio-content {
+        padding: 0 75px;
+    }
+    .arrow {
+        height: 70px;
+        width: 70px;
+    }
+    .arrow_left, .arrow_right {
+        background-size: contain;
+    }
+    .arrow_left {
+        left:6px;
+    }
+    .arrow_right {
+        right:6px;
+    }
+}
+
+@media(max-width: 1199px)
+{
+	.portfolio-popap .col-md-7 img,
+	.portfolio-popap .col-md-6 img 
+	{
+		max-width: 100%;
+		width: auto;
+		position: relative;
+		left: 0;
+		margin-left: 0;
+		float: none;
+	}
+	.popap-link_ios{
+		margin-right: 10px;
+	}
+	.control-b-img{
+		margin-top: 20px;
+	}
+}
+@media(min-width: 992px){
+	.portfolio-popap .column-right{
+		top: 50%;
+		right: 0;
+		transform: translate(-25%, -50%);
+		position: absolute;
+		padding: 0 0 0 30px;
+	}
+}
+@media(max-width: 991px)
+{
+	.portfolio-popap
+	{
+		min-height: 600px;
+		padding-bottom: 30px;
+		height: auto;
+	}
+	.portfolio-popap img
+	{
+		max-width: 100%;
+		float: none;
+		margin: 0 auto;
+	}
+	.portfolio-popap .column-right,
+	.portfolio-popap_app .popap-text{
+		max-width: 100%;
+	}
+	.popap-title{
+		padding-top: 30px!important;
+		margin-top: 30px!Important;
+	}
+	div.portfolio-content {
+		top: 0;
+		left: 0;
+		transform: translate(0%, 0%);
+		position: relative;
+		width: 100%;
+		display: inline-block;
+	}
+}
+@media (max-width: 991px) and (min-width: 768px)
+{
+	div.portfolio-content
+	{
+		padding: 0 60px;
+	}
+	.portfolio-popap .column-right { padding-left: 20px; }
+    .portfolio-popap .column-right, .portfolio-content .col-xs-12 {
+        width: 50% !important;
+        position: relative;
+        top: 50%;
+        transform: translate(0, -60%);
+        padding: 0;
+    }
+	.portfolio-content .col-xs-12 {
+		padding: 0 15px;
+	}
+    div.portfolio-content {
+        height: 100vh;
+    }
+    .portfolio-popap .column-right{
+        right: 0;
+        padding: 0 10px;
+    }
+	.arrow {
+		width: 58px;
+		height: 58px;
+	}
+	.arrow_right, .arrow_left {
+		-webkit-background-size: contain;
+		background-size: contain;
+	}
+	.arrow_right {
+		right: 2px;
+	}
+	.arrow_left{
+		left: 2px;
+	}
+}
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait)
+{
+	.popap-title
+	{
+		margin-bottom: 15px!important;
+	}
+	.portfolio-content .col-xs-12
+	{
+		width: 100%!important;
+		top: 35%;
+	}
+	.portfolio-content p.popap-text
+	{
+		max-width: 100%!important;
+	}
+	.popap-title
+	{
+		padding: 0!important;
+	}
+}
+
+@media(max-width: 767px)
+{
+	.h1
+	{
+		font-size: 40px;
+	}
+	.control-b-img{
+		display: none;
+	}
+    .portfolio-popap .column-right {
+        padding-bottom: 35px;
+		text-align: left;
+    }
+    .portfolio-popap .column-right .clear {
+        height: 1px;
+        padding-top: 30px;
+    }
+	div.portfolio-content {
+		height: 100vh;
+		overflow: auto;
+		box-sizing: border-box;
+		padding-right: 25px;
+        padding-left: 0px;
+	}
+	.portfolio-popap__close {
+		top: 15px;
+		right: 10px;
+		width: 21px;
+		height: 21px;
+		background-size: contain;
+	}
+	.portfolio-popap img{
+		display: none;
+	}
+	.portfolio .container{
+		padding-bottom: 0;
+	}
+	.heading {
+		margin-bottom: 30px;
+	}
+	.arrow{
+		display: none !important;
+	}
+
+	.popap-link {
+		float: none;
+		display: inline-block;
+		margin: 0 12px 12px 0;
+	}
+}
+@media(max-width: 480px){
+	.popap-title{
+		font-size: 30px;
+		padding: 20px 0 40px !Important;
+		margin-top: 20px !Important;
+	}
+	.hnh a{
+		margin: 0;
+	}
+	.popap-link_ios{
+		margin: 0 10px 10px 0;
+	}
+	.portfolio-popap .col-md-7 img,
+	.portfolio-popap .col-md-6 img{
+		display: none;
+	}
+}
+.clear {
+    clear: both;
+}
+#dropZone
+{
+	display: none!important;
+}
+.scroll-none {
+	height: 100%;
+	overflow: hidden;
+}
+.portfolio-item
+	{
+		display: inline-block!important;
+	}
+.portfolio-item.Lets
+{
+    max-width: 312px;
+    height: 248px;
+    box-sizing: border-box;
+    background: rgba(9, 9, 9, 0.2);
+    vertical-align: top;
+}
+.portfolio-item.Lets .btn {
+    white-space: normal;
+    padding: 80px 60px;
+    height: 248px;
+    max-width: 312px;
+	font-size: 18px;
+	font-weight: 300;
+}

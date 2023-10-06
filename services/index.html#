@@ -1,0 +1,1101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<title>Andorid | IOS | HTML5 App, Web & Software Development | DexBytes</title>
+<meta name="description" content="We Design and Develop both Native & Hybrid Apps, Web & Software Solutions for the USA, UK, Australia, Malaysia, India & gulf countries."/>
+
+<meta name="keywords" content="mobile app development, mobile app development company, mobile app developers, offshore development company, offshore it services, Outsourced Product Development, outsource software development, hire mobile app developer, custom mobile app development, android mobile app development, Web Application Development, Software Testing Services, best mobile app developers, mobile app development agency, ios app development, Custom Software Development Services Company, custom web application development, Mobile development company, app development companies, web development services, web application development, Android application development, iPhone application development, pembangunan aplikasi, 应用开发, 應用開發,تطوير التطبيق, développement d'applications,разработка приложений"/>
+<link rel="canonical" href="https://www.dexbytes.com"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.dexbytes.com/images/logo_color.svg" />
+
+<meta property="og:title" content="Andorid / IOS / HLML5 App, Web & Software Development | DexBytes" />
+<meta property="og:description" content="We Design and Develop both Native & Hybrid Apps, Web & Software Solutions in the USA, UK, Australia, Malaysia, India & gulf countries. We delivered 1000+ Apps & Web projects." />
+
+<meta property="og:url" content="https://www.dexbytes.com/" />
+<meta property="og:site_name" content="DexBytes Infotech" />
+<meta name="robots" content="index, follow" />
+<meta name="expires" content="never"/>
+<meta name="googlebot" content="index, follow"/>
+<meta name="YahooSeeker" content="index,follow"/>
+<meta name="msnbot" content="index,follow"/>
+<meta name="googlerank" content="all"/>
+<meta name="allow-search" content="yes" />
+<link rel="alternate" href="https://www.dexbytes.com/" hreflang="en-us"/>
+<meta http-equiv="Content-Language" content="en-us"/>
+<meta name="Rating" content="General"/>
+<meta name="geography" content="India "/>
+<meta name="geo.region" content="IN-MP" />
+<meta name="geo.placename" content="Indore" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="We Design and Develop both Native & Hybrid Apps, Web & Software Solutions in the USA, UK, Australia, Malaysia, India & gulf countries. We delivered 1000+ Apps & Web projects." />
+<meta name="twitter:title" content="Andorid / IOS / HLML5 App, Web & Software Development | DexBytes" />
+<link rel="stylesheet" href="css/home-page.css" type="text/css" media="all" />
+
+<!-- <link rel="stylesheet" href="responsive.css" type="text/css" media="all" /> -->
+
+<link rel="shortcut icon" href="images/favicon.png">
+
+<link href="https://fonts.googleapis.com/css?family=Google+Sans:400,500|Roboto:300,400,500|Roboto+Mono:400,700|Material+Icons" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Alatsi&display=swap" rel="stylesheet">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154132335-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-154132335-1');
+</script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6CE12H5FWK"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6CE12H5FWK');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153760478-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153760478-2');
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "DexBytes",
+  "image": "https://www.dexbytes.com/images/logo.png",
+  "@id": "https://www.dexbytes.com/",
+  "url": "https://www.dexbytes.com",
+  "telephone": "+91 0731 4287985",
+  "priceRange": "$$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "AB Road Press Complex",
+    "addressLocality": "Indore",
+    "postalCode": "452001",
+    "addressCountry": "IN"
+  } ,
+  "sameAs": [
+    "https://www.facebook.com/dexbytesinfotechpvtltd",
+    "https://twitter.com/dexbytes",
+    "https://www.youtube.com/channel/UCjltwGG2_b_lk3YtsFak5og/featured",
+    "https://in.linkedin.com/company/dexbytes-infotech",
+    "https://www.dexbytes.com"
+  ] 
+}
+</script>
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "url": "https://www.dexbytes.com",
+      "logo": "https://www.dexbytes.com/images/logo.png"
+    }
+    </script>
+    <script type="application/ld+json" class="dexbytes-schema-graph">
+{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://dexbytes.com/#website","url":"https://dexbytes.com/","name":"DexBytes","description":"DexBytes experience and expertise spans applications in business, entertainment, emagazines, utilities, sales presentations and marketing tools. Our team has experts, with a passion for technology and an eye for detail. 400+ Projects | 115K+ Development Hours | 50+ Experts Team | We are best in Android, IOS, HTML5 App / Web & software Development on React Native, Flutter, Ionic, swift and other framework through Java, python, C++, C#, Js, HTML, PHP, CSS, SQL and other Languages as per project needs and client's requirements.","potentialAction":[{"@type":"SearchAction","target":"https://dexbytes.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://dexbytes.com/#primaryimage","inLanguage":"en-US","url":"https://dexbytes.com/promotional/dexbytes_square_banner.png","caption":"Banner"},{"@type":"WebPage","@id":"https://dexbytes.com/#webpage","url":"https://dexbytes.com/","name":"DexBytes","isPartOf":{"@id":"https://dexbytes.com/#website"},"primaryImageOfPage":{"@id":"https://dexbytes.com/#primaryimage"},"datePublished":"2018-06-08T08:51:59+00:00","dateModified":"2021-06-17T05:37:56+00:00","description":"Andorid | IOS | HTML5 App, Web & Software Development | DexBytes","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://dexbytes.com/"]}]}]}</script>
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Services",
+        "item": "https://www.dexbytes.com/services/iphone-application-development.html"
+      },{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://www.dexbytes.com/services/android-application-development.html"
+      },{
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Services",
+        "item": "https://www.dexbytes.com/services/hybrid-application-development.html"
+      },{
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Services",
+        "item": "https://www.dexbytes.com/services/web-application-development.html"
+      },{
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Services",
+        "item": "https://www.dexbytes.com/services/mobile-ux-ui-design.html"
+      }
+      ,{
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Portfolio",
+        "item": "https://www.dexbytes.com/portfolio/"
+      }]
+    }
+    </script>
+    <style type="text/css">/* ** Apply styles to the parent element */
+ .Words {
+   color: #169ffb;
+   margin: 0 auto;
+   padding: 80px 0;
+   font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+   font-size: 40px;
+   font-weight: 900;
+   letter-spacing: -2px;
+   text-transform: uppercase;
+   transform: translate3d(0, 0, 0);
+   -webkit-font-smoothing: antialiased;
+   -webkit-font-kerning: normal;
+   -webkit-text-size-adjust: 100%;
+}
+/* ** Apply common styles to each line of text */
+ .Words-line {
+   height: 32px;
+   overflow: hidden;
+   position: relative;
+}
+ .Words-line:nth-child(odd) {
+   transform: skew(60deg, -30deg) scaleY(0.66667);
+}
+ .Words-line:nth-child(even) {
+   transform: skew(0deg, -30deg) scaleY(1.33333);
+}
+ .Words-line:nth-child(1) {
+   left: 29px;
+}
+ .Words-line:nth-child(2) {
+   left: 58px;
+}
+ .Words-line:nth-child(3) {
+   left: 87px;
+}
+ .Words-line:nth-child(4) {
+   left: 116px;
+}
+ .Words-line:nth-child(5) {
+   left: 145px;
+}
+ .Words-line:nth-child(6) {
+   left: 174px;
+}
+ .Words-line:nth-child(7) {
+   left: 203px;
+}
+/* ** Fine-grained text styles */
+ .pt {
+   height: 30px;
+   line-height: 28px;
+   padding: 0 5px;
+   transition: all 0.4s ease-in-out;
+   transform: translate3d(0, 0, 0);
+   vertical-align: top;
+   white-space: nowrap;
+}
+/* ** The hover interaction */
+ .Words:hover .pt {
+   transform: translate3d(0, -38px, 0);
+}
+    
+</style>
+    
+</head>
+<body id="boxscroll4">
+  
+
+  
+
+
+<!-- Navbar Begins -->
+ <nav class="navbar navbar-default" id="site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation" aria-expanded="false">
+        <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+      </button>
+       <div class="logo_sec"> <a id="trigger" class="navbar-brand" href="index.html"></a>
+        <div data-wow-delay="0s" data-wow-offset="50" class="logo_tooltip" id="pop-up">
+          <div class="left_logo"> 
+        <img class="white-logo" src="images/logo_white.svg" alt="tooltip_logo">
+        <img class="color-logo" src="images/logo_color.svg" alt="tooltip_logo">
+            <address>
+        <span class="phone"><i class="flaticon-telephone24"></i>+91 (731)428 7985</span>
+        <br>
+        <a href="mailto:info@dexbytes.com"><i class="fa fa-envelope"></i> info@dexbytes.com</a>
+            </address>
+          </div>
+          <address>
+            <p>1-B, Agra Bombay Road, Press Complex<br>Indore, Madhya Pradesh 452001</p>
+            <p><a href="https://bit.ly/2TlVhJE" target="_blank"><i class="fa fa-map-marker"></i> &nbsp;Open in Google Maps</a></p>
+            <div class="header_social">
+        <a href="https://www.facebook.com/dexbytesinfotechpvtltd/" class="fa fa-facebook" target="_blank"></a>
+        <a href="https://in.linkedin.com/company/dexbytes-infotech" class="fa fa-linkedin" target="_blank"></a>
+              <!--<a href="#" class="fa fa-twitter" target="_blank"></a>
+        <a href="#" class="fa fa-google-plus" target="_blank"></a>
+        <a class="fa fa-youtube" target="_blank" href="#"></a>-->
+      </div>
+          </address>
+        </div>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse" id="navigation">
+      <div class="menu-container">
+        <ul class="fx-menu nav-menu">
+          <li class="menu-item"><a href="https://www.dexbytes.com/index.html" class="activelink"><span class="menu_title">Home</span></a></li>
+          <li class="menu-item"><a href="https://www.dexbytes.com/about-us.html" class=""><span class="menu_title">About Us</span></a></li>
+          <li class="menu-item" rel="Services">
+             <a href="https://www.dexbytes.com/index.html#services" class="" title="Services"><span class="menu_title">Services <i class="fa fa-lg fa-angle-down"></i></span></a>
+             <ul>
+                 <li><a href="https://www.dexbytes.com/services/iphone-application-development.html">iPhone Application Development</a></li>
+                 <li><a href="https://www.dexbytes.com/services/android-application-development.html">Android Application Development</a></li>
+                 <li><a href="https://www.dexbytes.com/services/hybrid-application-development.html">Hybrid Application Development</a></li>
+                 <li><a href="https://www.dexbytes.com/services/web-application-development.html">Web Application Development</a></li>
+                 <li><a href="https://www.dexbytes.com/services/mobile-ux-ui-design.html">Mobile UI/UX Design</a></li>
+             </ul>
+          </li>
+          <li class="menu-item" rel="Portfolio"><a href="https://www.dexbytes.com/portfolio.html" class="" title="Portfolio"><span class="menu_title">portfolio</span></a></li>
+          <li class="menu-item"><a href="https://www.dexbytes.com/team.html" class=""><span class="menu_title">Team</span></a></li>
+          <!--<li class="menu-item" rel="Career"><a href="https://www.dexbytes.com/career.html" class="" title="Career"> <span class="menu_title">Career</span></a></li>-->
+          <li  class="menu-item" rel="Contact Us"><a href="https://www.dexbytes.com/contact-us.html" class="" title="Contact Us"><span class="menu_title">Contact</span></a></li>
+          <li  class="menu-item" rel="Blogs"><a href="https://www.dexbytes.com/blog" class="" title="Blogs"><span class="menu_title">Blogs</span></a></li>
+           </ul>
+      </div>
+    </div>
+    <!-- /.navbar-collapse --> 
+  </div>
+  <!-- /.container-fluid --> 
+</nav>
+<!-- Navbar end here -->
+
+<!-- Home Section Begins -->
+<!-- Home Section End -->
+<div id="servicess" class="p-strip-slanted--snapcraft1">
+  <section class="homepage__hero text-center carousel slide pointer-event" data-ride="carousel" data-interval="6500" data-pause="false" aria-hidden="true">
+    <div class="carousel-inner">
+
+        <div class="carousel-item homepage__hero__slide homepage__hero__slide--beautiful active">
+            <img class="homepage__hero__image homepage__hero__image--layer-1" src="port_img/one1-layer_1.webp">
+            <img class="homepage__hero__image homepage__hero__image--layer-2" src="port_img/one1-layer3.webp">
+            <img class="homepage__hero__image homepage__hero__image--layer-3" src="port_img/one1-layer2.webp">
+            <h1 class="homepage__hero__text">We Create <span class="color-white">Mobile, Web, &amp; Desktop</span> Apps</h1>
+            
+        </div>
+        <!-- <div class="carousel-item homepage__hero__slide homepage__hero__slide--productive">
+            <img class="homepage__hero__image homepage__hero__image--layer-1" src="/assets/homepage/carousel/slide_2-bg-ec22a39fb182cb26ec8fb88b30064bc08707d4e87b0e7415c2f077c20d3e6102.jpg">
+            <img class="homepage__hero__image homepage__hero__image--layer-2" src="/assets/homepage/carousel/slide_2-layer_2-3887a10d59280ef18834cc1c5fccf71a2cdbba1a0d9709cba835c5c132d51d24.png">
+            <img class="homepage__hero__image homepage__hero__image--layer-3" src="/assets/homepage/carousel/slide_2-layer_1-d47c81ce4204d0debbdb069ffef304b74d6aa21c309873a59307a03c680aa800.png">
+            <h1 class="homepage__hero__text"><span class="color-white">Fast Code Engines</span> for Apps</h1>
+        </div> -->
+        <div class="carousel-item homepage__hero__slide homepage__hero__slide--faster">
+            <img class="homepage__hero__image homepage__hero__image--layer-1" src="port_img/one2-layer1.webp">
+            <img class="homepage__hero__image homepage__hero__image--layer-2" src="port_img/one2-layer2.webp">
+            <img class="homepage__hero__image homepage__hero__image--layer-3" src="port_img/one2-layer3.webp">
+            <h1 class="homepage__hero__text">Turbo <span class="color-white">faster</span> apps</h1>
+        </div>
+        <div class="carousel-item homepage__hero__slide homepage__hero__slide--publish">
+          <img class="homepage__hero__image homepage__hero__image--layer-1" src="port_img/one-layer.webp">
+            <img class="homepage__hero__image homepage__hero__image--layer-2" src="port_img/one-layer-a.1.webp">
+            <img class="homepage__hero__image homepage__hero__image--layer-3" src="port_img/one-layer-a.2.webp">
+            <h1 class="homepage__hero__text">Build <span class="color-white">Awesome</span> Apps</h1>  
+        </div>
+    </div>
+</section>
+<div class="custom-shape-divider-bottom-1624549565">
+    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path d="M598.97 114.72L0 0 0 120 1200 120 1200 0 598.97 114.72z" class="shape-fill"></path>
+    </svg>
+</div>
+</div>
+<!-- ****************************** Left Image section ************************** -->
+<!---About start--->
+    <section id="features-left-image" class="block about1">
+        <div id="about" class="container">
+            
+            <div class="row align-center text-center-mobile">
+                
+                <div class="title-area hidden-md hidden-sm hidden-lg col-xs-12 mb-20">
+                    <h1 class="section-title text-center"><strong style="color: #169ffb;">About Us</strong></h1>
+                </div>
+
+                <div class="col-sm-6 wow fadeInLeft animated order-2-sm">
+                    
+                    <div class="title-area">
+                        <h1 class="section-title hidden-xs"><strong style="
+    color: #169ffb;
+">About Us</strong></h1>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-12 causes-content1">
+                            <p></p>
+                            <ul class="feature-list_a">
+                                <li>DexBytes experience and expertise spans applications in business, entertainment, gaming, emagazines, utilities, sales presentations and marketing tools. Our team has experts, with a passion for technology and an eye for detail. <br><br>Lets bring your application to life, together...</li>
+                            </ul>
+                            <div class=" col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">
+                <div class="wow fadeInRight" data-wow-offset="50" data-wow-duration="1" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInRight;">
+                        
+                    <figure class="project col-sm-6">
+                            <ul>
+                      <li style="
+    display: flex;
+">      <div class="cicrcleh-module--circleh--1BipW">
+<div class="cicrcleh-module--inner--xBfxJ inner" style="animation-delay:445ms"></div>
+<div class="cicrcleh-module--content--zEv4j">400+</div>
+</div>
+                            <figcaption>
+                                <div class="big">400+</div>Projects
+                            </figcaption></li>
+                          </ul>
+                            <div class="clearfix"></div>
+                        </figure>
+                        
+                    <figure class="coding col-sm-6">
+                           <ul>
+                      <li style="
+    display: flex;
+">      <div class="cicrcleh-module--circleh--1BipW">
+<div class="cicrcleh-module--inner--xBfxJ inner" style="animation-delay:445ms"></div>
+<div class="cicrcleh-module--content--zEv4j">115K</div>
+</div>
+                            <figcaption>
+                                <div class="big">1,15,000+</div>Development Hours
+                            </figcaption></li>
+                          </ul>
+                            <div class="clearfix"></div>
+                        </figure>
+                      
+                    <figure class="team col-sm-6">
+                           <ul>
+                      <li style="
+    display: flex;
+">      <div class="cicrcleh-module--circleh--1BipW">
+<div class="cicrcleh-module--inner--xBfxJ inner" style="animation-delay:445ms"></div>
+<div class="cicrcleh-module--content--zEv4j">50+</div>
+</div>
+                            <figcaption>
+                                <div class="big">50+</div>Experts Team
+                            </figcaption></li>
+                          </ul>
+                            <div class="clearfix"></div>
+                        </figure>
+                        
+                    <figure class="years col-sm-6">
+                            <ul>
+                      <li style="
+    display: flex;
+">      <div class="cicrcleh-module--circleh--1BipW">
+<div class="cicrcleh-module--inner--xBfxJ inner" style="animation-delay:445ms"></div>
+<div class="cicrcleh-module--content--zEv4j">5+</div>
+</div>
+                            <figcaption>
+                                <div class="big">5+</div>Years of Business
+                            </figcaption></li>
+                          </ul>
+                            <div class="clearfix"></div>
+                        </figure>
+                    <div class="col-md-12 col-sm-12 text-right mt-20">
+                        <a href="https://www.dexbytes.com/about-us.html" class="readmore">Read More...</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    </div>
+                </div><!--/col-sm-6-->
+                <div class="col-sm-6 wow fadeInRight animated order-1-sm">
+                    <div class="phone-image pull-right">
+                        <img class="img-responsive ball" src="port_img/ballblue.webp" alt="" width="500">
+                    </div>
+                    <div class="phone-image pull-right">
+                        <img class="img-responsive ball1 balll" src="port_img/ballbluebace.webp" alt="" width="500">
+                    </div>
+                </div><!--/col-sm-6-->
+                
+            </div><!--/row-->
+            
+        </div><!--/container-->
+    </section>
+    <!---About End--->
+    <!---Services start--->
+    <!-- ****************************** right Image section ************************** -->
+  <section id="services" class="block"  style="
+    margin-top: -5em; margin-bottom: -6em;">
+    <div class="container">
+      
+      <div class="row align-center text-center-mobile">
+        
+        <div class="title-area hidden-md hidden-sm hidden-lg col-xs-12 mb-20">
+          <h1 class="section-title text-center"><strong style="
+    color: #169ffb;
+">Services</strong></h1>
+        </div>
+        
+        <div class="col-sm-6 wow fadeInLeft animated">
+          <div class="phone-image pull-right">
+           <!--Word-->
+  <ul class="Words">
+  <li class="Words-line">
+    <p class="pt">&nbsp;</p>
+    <p class="pt">iOS App</p>
+  </li>
+  <li class="Words-line">
+    <p class="pt">iOS App</p>
+    <p class="pt">Android App</p>
+  </li>
+  <li class="Words-line">
+    <p class="pt">Android App</p>
+    <p class="pt">Hybrid App</p>
+  </li>
+  <li class="Words-line">
+    <p class="pt">Hybrid App</p>
+    <p class="pt">Web App</p>
+  </li>
+  <li class="Words-line">
+    <p class="pt">Web App</p>
+    <p class="pt">Web Design</p>
+  </li>
+  <li class="Words-line">
+    <p class="pt">Web Design</p>
+    <p class="pt">Mobile UI-UX</p>
+  </li>
+  <li class="Words-line">
+    <p class="pt">Mobile UI-UX</p>
+    <p class="pt">&nbsp;</p>
+  </li>
+</ul>
+           <!--Word End-->
+          </div>
+        </div><!--/col-sm-6-->
+        
+        <div class="col-sm-6 wow fadeInRight animated">
+          
+          <div class="title-area">
+            <h1 class="section-title hidden-xs"><strong style="
+    color: #169ffb;
+">Services</strong></h1>
+          </div>
+          
+          <div class="row">
+            <div class="col-md-12 causes-content">
+              <p>DexBytes develops apps for end-users, enterprises and acts as a b2b development partner across various industries. Our process involves your participation at every stage of product creation while we consult and guide you through.</p>
+              <p>We invite you to intimately participate in the app development process. By understanding the process logic, you can continuously improve and elaborate on your ideas. We ensure a most robust and effective implementation.</p>
+              
+            </div>
+          </div>
+        </div><!--/col-sm-6-->
+        
+        
+      </div><!--/row-->
+      
+    </div><!--/container-->
+  </section>
+    <!---Services End--->
+    <!--Services New-->
+    <!-- Services Section Begins -->
+<section id="sservices">
+  <div class="services">
+    <div class="container raww">
+            <div class=" col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">
+              <div class="wow fadeInLeft" data-wow-offset="50" data-wow-duration="1" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
+          <div class="row">
+            <div class="col-md-4 service-icon">
+              <a href="https://www.dexbytes.com/services/iphone-application-development.html">
+                <h3 style="color: #169ffb;"><i class="fa fa-apple"></i> iOS</h3>
+                <h4>Custom applications for iPhone, iPad and Apple Watch effectively designed and perfectly optimized.</h4>
+              </a>
+            </div>
+            <div class="col-md-4 service-icon">
+              <a href="https://www.dexbytes.com/services/android-application-development.html">
+                <h3 style="color: #169ffb;"><i class="fa fa-android"></i> Android</h3>
+                <h4>Unique solutions for Android smartphones and tablets, balanced and scaled to support various devices.</h4>
+              </a>
+            </div>
+            <div class="col-md-4 service-icon">
+              <a href="https://www.dexbytes.com/services/hybrid-application-development.html">
+                <h3 style="color: #169ffb;"><i class="fa fa-code"></i> Hybrid</h3>
+                <h4>Our developers uses latest technology including HTML5, CSS3, JavaScript, etc. to work on hybrid application.</h4>
+              </a>
+            </div>
+            <div class="col-md-4 service-icon">
+              <a href="https://www.dexbytes.com/services/web-application-development.html">
+                <h3 style="color: #169ffb;"><i class="fa fa-globe"></i> Web App</h3>
+                <h4>Web applications, landing pages, and back-end solutions for mobile apps optimized for peak loads.</h4>
+              </a>
+            </div>
+            <div class="col-md-4 service-icon">
+              
+                <h3 style="color: #169ffb;"><i class="fa fa-paint-brush"></i> Web Design</h3>
+                <h4>We make best use of Bootstrap to give your website that extra power and elegance.</h4>
+              
+            </div>
+            <div class="col-md-4 service-icon">
+              <a href="https://www.dexbytes.com/services/mobile-ux-ui-design.html">
+                <h3 style="color: #169ffb;"><i class="fa fa-mobile-phone"></i>Mobile UI/UX</h3>
+                <h4>Our design is more than just a collection of words and images. We focus on delighting the user.</h4>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Services Section End -->
+<!--Process section start-->
+<!----Old---->
+<section id="features-left-image" class="block process3">
+        <div id="about" class="container">
+            
+            <div class="row align-center text-center-mobile">
+                
+                <div class="title-area hidden-md hidden-sm hidden-lg col-xs-12 mb-20">
+                    <h1 class="section-title text-center"><strong style="color: #169ffb;">Process</strong></h1>
+                </div>
+
+                <div class="col-sm-6 wow fadeInLeft animated order-2-sm">
+                    
+                    <div class="title-area">
+                        <h1 class="section-title hidden-xs"><strong style="color: #169ffb;">Process</strong></h1>
+                    </div>
+                    
+                    <div class="row prow">
+                        <div class="col-md-12 causes-content1">
+                            <p></p>
+                            <ul class="feature-list_a">
+                                <li>Successful apps are more than just clean UI/ UX or code development. Our continuous app deployment cycle includes user acquisition, improving on yourapp ideas and scaling them, effectively acting as your business-cum-technology partners. </li>
+                            </ul>
+                           
+                        </div>
+                    </div>
+                </div> <!--/col-sm-6-->
+                <!--/col-sm-6-->
+                
+            </div><!--/row-->
+            
+        </div><!--/container-->
+    </section>
+<!--Process section end-->
+<!--rough--->
+<section id="features-left-image" class="block" style="padding: 0px 0px 0px 0px;">
+        <div class="row prow">
+                      <div class="containerrr" style="padding-left: 22%;padding-right: 30%;">
+  <svg id="circle-nav-services" width="100%" height="100%" viewBox="0 0 650 550">
+    <defs>
+    <filter id="service-shadow" height="2" width="2" y="-.5" x="-.5">
+      <feOffset result="offOut" in="SourceGraphic" dx="0" dy="5" />
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="12" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+    </filter>
+  </defs>
+  
+    <symbol id="circle-nav-copy" viewBox="0 0 300 300">
+      <defs>
+        <style>
+          .cls-1 {
+            font-size: 28px;
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 700;
+          }
+
+          .cls-2 {
+            letter-spacing: -0.02em;
+          }
+
+          .cls-3 {
+            letter-spacing: -0.01em;
+          }
+
+          .cls-4 {
+            letter-spacing: -0.01em;
+          }
+
+          .cls-5 {
+            font-size: 16px;
+            font-family: 'Open Sans', sans-serif;
+          }
+
+          .cls-6 {
+            letter-spacing: -0.01em;
+          }
+
+          .cls-7 {
+            letter-spacing: -0.01em;
+          }
+
+          .cls-8 {
+            letter-spacing: -0.02em;
+          }
+
+          .cls-9 {
+            letter-spacing: -0.01em;
+          }
+
+          .cls-10 {
+            letter-spacing: 0.01em;
+          }
+
+          .cls-11 {
+            letter-spacing: -0.01em;
+          }
+
+          .cls-12 {
+            letter-spacing: -0.04em;
+          }
+
+          .cls-13 {
+            letter-spacing: -0.02em;
+          }
+
+          .cls-14 {
+            letter-spacing: 0.01em;
+          }
+
+          .cls-15 {
+            letter-spacing: -0.01em;
+          }
+
+          .cls-16 {
+            letter-spacing: -0.06em;
+          }
+
+          .cls-17 {
+            letter-spacing: -0.02em;
+          }
+
+          .cls-18 {
+            letter-spacing: 0.01em;
+          }
+
+          .cls-19 {
+            letter-spacing: 0.02em;
+          }
+
+          .cls-20 {
+            letter-spacing: -0.01em;
+          }
+
+          .cls-21 {
+            letter-spacing: -0.03em;
+          }
+        </style>
+      </defs>
+      <title>Process</title>
+      <text class="cls-1" transform="translate(99 1865)">
+        <tspan class="cls-2" x="18" y="0"></tspan>
+        <tspan x="0" y="0">Support</tspan>
+      </text>
+      <text class="cls-5" transform="translate(57 1930)">We 
+        <tspan x="26" y="0">will always be ready</tspan>
+        <tspan class="cls-3" x="1" y="19"></tspan>
+        <tspan x="5" y="19">to</tspan>
+        <tspan class="cls-6" x="21" y="19"></tspan>
+        <tspan x="24" y="19">help and modify your</tspan>
+        <tspan class="cls-7" x="172" y="19"></tspan>
+        <tspan x="177" y="19"></tspan>
+        <tspan x="5" y="38">project at any point</tspan>
+        <tspan class="cls-8" x="17" y="38"></tspan>
+        <tspan x="22" y="38"> </tspan>
+        <tspan class="cls-6" x="65" y="38"></tspan>
+        <tspan x="70" y="38"></tspan>
+        <tspan class="cls-9" x="98" y="38"></tspan>
+        <tspan x="103" y="38"></tspan>
+        <tspan class="cls-6" x="143" y="38"></tspan>
+        <tspan x="148" y="38"></tspan>
+        <tspan x="5" y="58">following the launch.</tspan>
+        <tspan class="cls-10" x="75" y="58"></tspan>
+        <tspan x="81" y="58"></tspan>
+        <tspan class="cls-6" x="121" y="58"></tspan>
+        <tspan x="126" y="58"></tspan>
+        <tspan x="1" y="77"></tspan>
+        <tspan class="cls-6" x="9" y="77"></tspan>
+        <tspan x="17" y="77"></tspan>
+        <tspan class="cls-11" x="55" y="77"></tspan>
+        <tspan x="63" y="77"></tspan>
+        <tspan class="cls-6" x="99" y="77"></tspan>
+        <tspan x="104" y="77"></tspan>
+      </text>
+      <text class="cls-1" transform="translate(89 1566)">
+        <tspan class="cls-12"></tspan>
+        <tspan x="16" y="0">Launch</tspan>
+        <tspan x="7" y="28"></tspan>
+        <tspan class="cls-10" x="39" y="28"></tspan>
+        <tspan x="49" y="28"></tspan>
+      </text>
+      <text class="cls-5" transform="translate(47 1636)">
+        <tspan class="cls-13"></tspan>
+        <tspan x="14" y="0">In the end we prepare</tspan>
+        <tspan class="cls-7" x="61" y="0"></tspan>
+        <tspan x="66" y="0"></tspan>
+        <tspan class="cls-11" x="110" y="0"></tspan>
+        <tspan x="118" y="0"></tspan>
+        <tspan class="cls-6" x="154" y="0"></tspan>
+        <tspan x="159" y="0"></tspan>
+        <tspan x="10" y="19">all the necessary materials</tspan>
+        <tspan x="10" y="38">to place your application </tspan>
+        <tspan x="10" y="58">on the AppStore and</tspan>
+        <tspan class="cls-14" x="7" y="78"></tspan>
+        <tspan x="13" y="78">Google Play.</tspan>
+      </text>
+      <text class="cls-1" transform="translate(105 966)">
+        <tspan class="cls-2" x="18" y="0"></tspan>
+        <tspan x="-45" y="5">Development</tspan>
+        <tspan x="-38" y="28"></tspan>
+      </text>
+      <text class="cls-5" transform="translate(65 1037)">
+        <tspan class="cls-13"></tspan>
+        <tspan x="10" y="0">At this stage we present</tspan>
+        <tspan class="cls-11" x="61" y="0"></tspan>
+        <tspan x="68" y="0"></tspan>
+        <tspan class="cls-8" x="122" y="0"></tspan>
+        <tspan x="127" y="0"></tspan>
+        <tspan x="10" y="19">you with a full prototype</tspan>
+        <tspan class="cls-6" x="93" y="19"></tspan>
+        <tspan x="98" y="19"></tspan>
+        <tspan x="10" y="38">of the application.</tspan>
+        <tspan x="-8" y="58"></tspan>
+        <tspan class="cls-7" x="80" y="58"></tspan>
+        <tspan x="85" y="58"></tspan>
+        <tspan class="cls-7" x="116" y="58"></tspan>
+        <tspan x="121" y="58"></tspan>
+      </text>
+      <text class="cls-1" transform="translate(75 666)">
+<tspan x="30" y="0">Design</tspan>
+</text>
+      <text class="cls-5" transform="translate(83 710)">
+        <tspan class="cls-7" x="37" y="0"></tspan>
+        <tspan x="0" y="0">If required we create a</tspan>
+        <tspan x="0" y="19">unique design that is</tspan>
+        <tspan class="cls-6" x="-18" y="19"></tspan>
+        <tspan x="-13" y="19"></tspan>
+        <tspan x="0" y="38">ideally suited to your</tspan>
+        <tspan class="cls-11" x="129" y="38"></tspan>
+        <tspan class="cls-15" x="138" y="38"></tspan>
+        <tspan x="145" y="38"></tspan>
+        <tspan x="0" y="58">specific application.</tspan>
+        <tspan x="-23" y="77"></tspan>
+        <tspan class="cls-7" x="136" y="77"></tspan>
+        <tspan x="141" y="77"></tspan>
+        <tspan x="-19" y="96"></tspan>
+        <tspan class="cls-6" x="90" y="96"></tspan>
+        <tspan x="95" y="96"></tspan>
+        <tspan class="cls-8" x="113" y="96"></tspan>
+        <tspan x="118" y="96"></tspan>
+      </text>
+      <text class="cls-1" transform="translate(87 65)">
+<tspan x="30" y="0">Idea</tspan>
+</text>
+      <text class="cls-5" transform="translate(63 108)">
+        <tspan x="10" y="19">To begin, we listen to</tspan>
+        <tspan class="cls-6" x="71" y="19"></tspan>
+        <tspan x="76" y="19"></tspan>
+        <tspan class="cls-8" x="10" y="38">your idea, evaluate it,</tspan>
+        <tspan x="4" y="38"></tspan>
+        <tspan x="10" y="58">and choose the optimal</tspan>
+        <tspan class="cls-9" x="59" y="58"></tspan>
+        <tspan x="64" y="58"></tspan>
+        <tspan class="cls-6" x="170" y="58"></tspan>
+        <tspan x="175" y="58"></tspan>
+        <tspan class="cls-16" x="184" y="58"></tspan>
+        <tspan x="189" y="58"></tspan>
+        <tspan class="cls-6" x="10" y="78">way to realize the project.</tspan>
+        <tspan x="8" y="77"></tspan>
+        <tspan class="cls-15" x="8" y="96"></tspan>
+        <tspan class="cls-11" x="16" y="96"></tspan>
+        <tspan x="24" y="96"></tspan>
+      </text>
+      <text class="cls-1" transform="translate(87 365)">
+        <tspan class="cls-17"></tspan>
+        <tspan x="-10" y="0">Prototyping</tspan>
+        <tspan x="-32" y="28"></tspan>
+        <tspan class="cls-18" x="130" y="28"></tspan>
+        <tspan x="149" y="28"></tspan>
+      </text>
+      <text class="cls-5" transform="translate(46 437)">
+        <tspan class="cls-19" x="10" y="0">After that we begin the</tspan>
+        <tspan x="46" y="0"></tspan>
+        <tspan class="cls-19" x="173" y="0"></tspan>
+        <tspan x="178" y="0"></tspan>
+        <tspan x="10" y="19">development of a functional</tspan>
+        <tspan class="cls-6" x="34" y="19"></tspan>
+        <tspan class="cls-11" x="39" y="19"></tspan>
+        <tspan x="48" y="19"></tspan>
+        <tspan x="10" y="38">and intuitive interface that</tspan>
+        <tspan x="10" y="58">will be seamless for you</tspan>
+        <tspan class="cls-17" x="59" y="58"></tspan>
+        <tspan x="10" y="78">and your users.</tspan>
+      </text>
+      <text class="cls-1" transform="translate(138 1266)">
+        <tspan class="cls-20">
+          <tspan class="cls-21" x="-38" y="0">Testing</tspan>
+        </tspan>
+        <tspan x="-80" y="28"></tspan>
+      </text>
+      <text class="cls-5" transform="translate(47 1323)">We thoroughly test the resulting
+        <tspan class="cls-6" x="146" y="0"></tspan>
+        <tspan x="154" y="0"></tspan>
+        <tspan x="0" y="19">product, evaluate the quality</tspan>
+        <tspan x="0" y="38">of idea realisation, usability and</tspan>
+        <tspan class="cls-7" x="5" y="58">functionality of the project.</tspan>
+        <tspan x="0" y="58"></tspan>
+        <tspan x="-1" y="77"></tspan>
+        <tspan x="40" y="96"></tspan>
+        <tspan class="cls-15" x="44" y="96"></tspan>
+        <tspan x="60" y="96"></tspan>
+      </text>
+    </symbol>
+    <symbol id="idea" viewBox="0 0 512 512">
+      <path d="M378.461,50.471C345.652,17.893,302.215,0,256.012,0c-0.419,0-0.843,0.002-1.262,0.004
+      c-45.274,0.32-88.091,18.097-120.565,50.058c-32.481,31.969-50.929,74.498-51.943,119.759
+      c-1.066,47.514,16.713,92.286,50.059,126.07c18.071,18.307,28.436,42.816,28.443,67.249v77.418h18.112
+      C181.909,480.461,215.328,512,256,512s74.091-31.539,77.144-71.442h18.112V363.14c0.006-24.576,10.196-48.908,27.959-66.762
+      c32.623-32.791,50.589-76.321,50.589-122.574C429.804,127.147,411.571,83.346,378.461,50.471z M256,476.279
+      c-20.957,0-38.344-15.553-41.242-35.721h82.484C294.344,460.726,276.958,476.279,256,476.279z M315.535,404.837h-119.07v-23.814
+      h119.07V404.837z M353.891,271.185c-20.08,20.184-33.106,46.492-37.074,74.117H195.16c-4.02-27.535-17.172-53.977-37.437-74.505
+      c-26.493-26.84-40.617-62.415-39.771-100.176c0.806-35.915,15.468-69.688,41.287-95.1c25.818-25.409,59.827-39.544,95.761-39.797
+      c37.118-0.241,71.99,13.976,98.29,40.094c26.304,26.12,40.791,60.917,40.791,97.985
+      C394.082,210.55,379.809,245.135,353.891,271.185z"/>
+    </symbol>
+    <symbol id="prototyping" viewBox="0 0 512 512">
+      <path d="M53.569,166.927v270.2h270.2v-118.4c13.4-8.8,25.6-18,37.2-27.9c2.8-2.2,8.3-6.7,15.4-13.5v186c0,14.5-11.8,26.3-26.3,26.3
+    h-322.8c-14.5,0-26.3-11.8-26.3-26.3v-322.7c0-14.5,11.8-26.3,26.3-26.3h87.8c-9.6,16.4-17.8,34-24.7,52.6H53.569z M482.269,4.027
+    c-9-1.5-20-2.5-32.5-3.2l0,0l-3.2-0.1c-1.9-0.1-3.8-0.2-5.8-0.3l0,0h-0.3l-4.8-0.2h-0.1c-87-2.9-147.6,23-147.6,23l0,0
+    c-82.5,33.4-139.3,93.1-164.9,184.2c-8.3,29.5-5.7,60.2-1.5,90.4c0.5,2.8,2,6.9,10.8,1.3l0,0c17.5-47.8,46.7-92.5,81.4-131
+    c43.9-48.6,93.2-87.3,154.3-111.6c11.2-4.5,21.9-7.9,33.3-11.8c0.4,1-0.5,2-1.4,2.4c-0.3,0.1-0.7,0.2-1,0.3
+    c-32.5,12.5-61.5,31.1-88.5,52.9c-45.5,36.8-83.6,80.4-116.9,128.3c-38.6,55.5-69.6,114.8-89.9,179.4c0,0-3.6,16.1,8.6,4.4
+    l53.8-66.9c0.6-1.2,1.4-2.1,2.3-2.8c1.1-1,2.5-1.7,4.2-2.3c24.5-9.2,49.3-17.6,73.1-28.4c32-14.5,61.4-32.6,87.6-55.1
+    c2.9-2.2,32-24.9,62.6-71.9c0.5-0.6,1-1.3,1.4-2.1c0.2-0.3,0.4-0.7,0.6-1c7.4-11.7,14.9-24.8,22.2-39.4l-61.7-8.4
+    c0,0,69.8-9.9,80.1-32.5c0.6-1.2,1.3-3.3,1.8-4.6c5.4-12.2,10.9-25.7,17-36.9l0,0c1.9-5.8,15.8-30.5,30-45
+    C490.669,11.427,487.369,4.827,482.269,4.027z"/>
+</symbol>
+    <symbol id="design" viewBox="0 0 512 512">
+      <path d="M80,369.632H19.2c-9.6,0-16,6.4-16,16v60.8c0,9.6,6.4,16,16,16H80c9.6,0,16-8,16-16v-60.8
+      C96,376.032,89.6,369.632,80,369.632z M64,430.432H35.2v-28.8H64V430.432z"/>
+<path d="M280,369.632h-60.8c-9.6,0-16,6.4-16,16v60.8c0,9.6,6.4,16,16,16H280c9.6,0,16-8,16-16v-60.8
+      C296,376.032,289.6,369.632,280,369.632z M264,430.432h-28.8h0v-28.8H264V430.432z"/>
+<path d="M480,369.632h-60.8c-9.6,0-16,6.4-16,16v60.8c0,9.6,6.4,16,16,16H480c9.6,0,16-8,16-16v-60.8
+      C496,376.032,489.6,369.632,480,369.632z M464,430.432h-28.8v-28.8H464V430.432z"/>
+<path d="M280,92.832h-60.8c-9.6,0-16,6.4-16,16v60.8c0,9.6,6.4,16,16,16H280c9.6,0,16-6.4,16-16v-60.8
+      C296,99.232,289.6,92.832,280,92.832z M264,153.632h-28.8h0v-28.8H264V153.632z"/>
+<path d="M480,92.832h-60.8c-9.6,0-16,6.4-16,16v60.8c0,9.6,6.4,16,16,16H480c9.6,0,16-6.4,16-16v-60.8
+      C496,99.232,489.6,92.832,480,92.832z M464,153.632h-28.8v-28.8H464V153.632z"/>
+<path d="M480,230.432h-60.8c-9.6,0-16,6.4-16,16v60.8c0,9.6,6.4,16,16,16H480c9.6,0,16-6.4,16-16v-60.8
+      C496,236.832,489.6,230.432,480,230.432z M464,291.232h-28.8v-28.8H464V291.232z"/>
+<path d="M222.4,248.032L27.2,38.432c-3.2-4.8-11.2-6.4-17.6-3.2c-4.8,1.6-9.6,8-9.6,14.4v288c0,6.4,3.2,11.2,9.6,14.4
+      c3.2,1.6,4.8,1.6,6.4,1.6c4.8,0,9.6-1.6,11.2-6.4l75.2-80l108.8,9.6h1.6c9.6,0,16-6.4,16-16
+      C228.8,256.032,225.6,251.232,222.4,248.032z M97.6,236.832c-4.8,0-9.6,1.6-12.8,4.8l-52.8,56v-208l140.8,153.6L97.6,236.832z"/>
+<path d="M217.6,123.232H110.4c-9.6,0-16,6.4-16,16c0,9.6,6.4,16,16,16h108.8c8,0,14.4-6.4,14.4-16
+      C233.6,129.632,227.2,123.232,217.6,123.232z"/>
+<path d="M403.2,123.232H280c-9.6,0-16,6.4-16,16c0,9.6,6.4,16,16,16h123.2c9.6,0,16-6.4,16-16
+      C419.2,129.632,412.8,123.232,403.2,123.232z"/>
+<path d="M403.2,400.032H280c-9.6,0-16,6.4-16,16c0,9.6,6.4,16,16,16h123.2c9.6,0,16-6.4,16-16
+      C419.2,406.432,412.8,400.032,403.2,400.032z"/>
+<path d="M203.2,400.032H80c-9.6,0-16,6.4-16,16c0,9.6,6.4,16,16,16h123.2c9.6,0,16-6.4,16-16
+      C219.2,406.432,212.8,400.032,203.2,400.032z"/>
+<path d="M449.6,153.632c-9.6,0-16,6.4-16,16v76.8c0,9.6,6.4,16,16,16c8,0,16-6.4,16-16v-76.8
+      C465.6,160.032,459.2,153.632,449.6,153.632z"/>
+<path d="M449.6,291.232c-9.6,0-16,6.4-16,16v76.8c0,9.6,6.4,16,16,16c8,0,16-6.4,16-16v-76.8
+      C465.6,297.632,459.2,291.232,449.6,291.232z"/>
+<path d="M49.6,291.232c-9.6,0-16,6.4-16,16v76.8c0,9.6,6.4,16,16,16s16-6.4,16-16v-76.8C65.6,297.632,59.2,291.232,49.6,291.232z"
+      />
+
+</symbol>
+    <symbol id="development" viewBox="0 0 512 512">
+      <path d="M 197.597656 329.6875 L 320.046875 329.6875 C 330.277344 329.6875 338.570312 321.394531 338.570312 311.160156 C 338.570312 300.929688 330.277344 292.636719 320.046875 292.636719 L 197.597656 292.636719 C 187.363281 292.636719 179.070312 300.929688 179.070312 311.160156 C 179.070312 321.394531 187.363281 329.6875 197.597656 329.6875 Z M 197.597656 329.6875 "/>
+<path d="M 320.046875 330.121094 L 197.597656 330.121094 C 187.144531 330.121094 178.640625 321.617188 178.640625 311.160156 C 178.640625 300.707031 187.144531 292.203125 197.597656 292.203125 L 320.046875 292.203125 C 330.5 292.203125 339.003906 300.707031 339.003906 311.160156 C 339.003906 321.617188 330.5 330.121094 320.046875 330.121094 Z M 197.597656 293.070312 C 187.621094 293.070312 179.503906 301.1875 179.503906 311.160156 C 179.503906 321.140625 187.621094 329.253906 197.597656 329.253906 L 320.046875 329.253906 C 330.019531 329.253906 338.136719 321.140625 338.136719 311.160156 C 338.136719 301.1875 330.019531 293.070312 320.046875 293.070312 Z M 197.597656 293.070312 "/>
+<path d="M 86.136719 313.835938 C 89.753906 317.453125 94.496094 319.257812 99.238281 319.257812 C 103.976562 319.257812 108.71875 317.453125 112.335938 313.835938 L 161.375 264.796875 C 165.015625 261.15625 166.820312 256.375 166.796875 251.605469 C 166.820312 246.832031 165.015625 242.050781 161.375 238.410156 L 112.335938 189.375 C 105.101562 182.136719 93.371094 182.140625 86.136719 189.375 C 78.902344 196.609375 78.902344 208.335938 86.136719 215.570312 L 122.171875 251.605469 L 86.136719 287.636719 C 78.902344 294.871094 78.902344 306.601562 86.136719 313.835938 Z M 86.136719 313.835938 "/>
+<path d="M 99.238281 319.691406 C 94.175781 319.691406 89.414062 317.722656 85.832031 314.140625 C 82.25 310.558594 80.28125 305.800781 80.28125 300.734375 C 80.28125 295.671875 82.25 290.910156 85.832031 287.332031 L 121.558594 251.605469 L 85.832031 215.878906 C 78.441406 208.484375 78.441406 196.457031 85.832031 189.066406 C 89.414062 185.484375 94.171875 183.515625 99.238281 183.515625 C 104.300781 183.515625 109.0625 185.484375 112.644531 189.066406 L 161.679688 238.101562 C 165.285156 241.707031 167.257812 246.503906 167.230469 251.605469 C 167.253906 256.703125 165.285156 261.496094 161.679688 265.101562 L 112.644531 314.140625 C 109.0625 317.71875 104.300781 319.691406 99.238281 319.691406 Z M 99.238281 184.378906 C 94.40625 184.378906 89.863281 186.261719 86.445312 189.679688 C 79.390625 196.734375 79.390625 208.210938 86.445312 215.265625 L 122.78125 251.601562 L 86.445312 287.941406 C 83.027344 291.359375 81.144531 295.902344 81.144531 300.734375 C 81.144531 305.566406 83.027344 310.109375 86.445312 313.527344 C 89.863281 316.945312 94.40625 318.828125 99.238281 318.828125 C 104.070312 318.828125 108.613281 316.945312 112.03125 313.527344 L 161.070312 264.492188 C 164.507812 261.050781 166.390625 256.472656 166.367188 251.605469 C 166.390625 246.730469 164.511719 242.15625 161.070312 238.714844 L 112.03125 189.679688 C 108.613281 186.261719 104.070312 184.378906 99.238281 184.378906 Z M 99.238281 184.378906 "/>
+<path d="M 0.433594 453.929688 C 0.433594 481.65625 22.988281 504.214844 50.714844 504.214844 L 461.296875 504.214844 C 489.023438 504.214844 511.582031 481.65625 511.582031 453.929688 L 511.582031 58.082031 C 511.582031 30.359375 489.023438 7.800781 461.296875 7.800781 L 50.714844 7.800781 C 22.988281 7.800781 0.433594 30.359375 0.433594 58.082031 Z M 474.53125 453.929688 C 474.53125 461.238281 468.605469 467.164062 461.296875 467.164062 L 50.714844 467.164062 C 43.40625 467.164062 37.484375 461.238281 37.484375 453.929688 L 37.484375 151.769531 L 474.53125 151.769531 Z M 37.484375 58.082031 C 37.484375 50.773438 43.40625 44.851562 50.714844 44.851562 L 461.296875 44.851562 C 468.605469 44.851562 474.53125 50.773438 474.53125 58.082031 L 474.53125 114.71875 L 37.484375 114.71875 Z M 37.484375 58.082031 "/>
+<path d="M 461.296875 504.644531 L 50.714844 504.644531 C 22.75 504.644531 0 481.894531 0 453.929688 L 0 58.082031 C 0 30.117188 22.75 7.367188 50.714844 7.367188 L 461.296875 7.367188 C 489.261719 7.367188 512.015625 30.121094 512.015625 58.085938 L 512.015625 453.929688 C 512.015625 481.894531 489.261719 504.644531 461.296875 504.644531 Z M 50.714844 8.234375 C 23.226562 8.234375 0.863281 30.59375 0.863281 58.082031 L 0.863281 453.929688 C 0.863281 481.417969 23.226562 503.78125 50.714844 503.78125 L 461.296875 503.78125 C 488.785156 503.78125 511.148438 481.417969 511.148438 453.929688 L 511.148438 58.082031 C 511.148438 30.59375 488.785156 8.234375 461.296875 8.234375 Z M 461.296875 467.59375 L 50.714844 467.59375 C 43.179688 467.59375 37.050781 461.464844 37.050781 453.929688 L 37.050781 151.335938 L 474.964844 151.335938 L 474.964844 453.929688 C 474.964844 461.464844 468.832031 467.59375 461.296875 467.59375 Z M 37.914062 152.203125 L 37.914062 453.929688 C 37.914062 460.988281 43.65625 466.730469 50.714844 466.730469 L 461.296875 466.730469 C 468.355469 466.730469 474.097656 460.988281 474.097656 453.929688 L 474.097656 152.203125 Z M 474.964844 115.152344 L 37.050781 115.152344 L 37.050781 58.082031 C 37.050781 50.546875 43.179688 44.417969 50.714844 44.417969 L 461.296875 44.417969 C 468.832031 44.417969 474.964844 50.546875 474.964844 58.082031 Z M 37.914062 114.285156 L 474.097656 114.285156 L 474.097656 58.082031 C 474.097656 51.023438 468.355469 45.285156 461.296875 45.285156 L 50.714844 45.285156 C 43.65625 45.285156 37.914062 51.023438 37.914062 58.082031 Z M 37.914062 114.285156 "/>
+</symbol>
+    <symbol id="testing" viewBox="0 0 512 512">
+      <path d="M478.483,273.213l-9.2-12.6c-7.6-10.4-7.7-24.5-0.3-35.1l9-12.7c10.4-14.8,5.6-35.3-10.4-43.9l-13.7-7.4
+      c-11.4-6.1-17.6-18.8-15.5-31.5l2.6-15.4c3-17.8-10.3-34.3-28.4-35l-15.6-0.7c-12.9-0.5-24-9.3-27.6-21.7l-4.3-15
+      c-5-17.4-24.1-26.4-40.8-19.2l-14.3,6.2c-11.9,5.1-25.6,2.1-34.3-7.6l-10.4-11.6c-12.1-13.5-33.2-13.3-45.1,0.3l-10.2,11.8
+      c-8.5,9.7-22.2,13-34.1,8.1l-14.4-5.9c-16.7-6.9-35.7,2.4-40.5,19.9l-4.1,15c-3.3,12.6-14.2,21.5-27.1,22.2l-15.6,0.9
+      c-18.1,1-31.1,17.7-27.8,35.4l2.8,15.3c2.3,12.7-3.7,25.5-15,31.7l-13.6,7.6c-15.8,8.8-20.4,29.4-9.7,44l9.2,12.6
+      c7.6,10.4,7.7,24.5,0.3,35.1l-9,12.7c-10.4,14.8-5.6,35.3,10.4,43.9l13.7,7.4c11.4,6.1,17.6,18.8,15.5,31.5l-2.7,15.3
+      c-3,17.8,10.3,34.3,28.4,35l15.6,0.7c12.9,0.5,24,9.3,27.6,21.7l4.3,15c5,17.4,24.1,26.4,40.8,19.2l14.3-6.2
+      c11.9-5.1,25.6-2.1,34.3,7.5l10.4,11.6c12.1,13.5,33.2,13.3,45.1-0.3l10.2-11.8c8.5-9.7,22.2-13,34.1-8.1l14.4,5.9
+      c16.7,6.9,35.7-2.4,40.5-19.9l4.1-15c3.4-12.4,14.4-21.3,27.3-22.1l15.6-0.9c18.1-1,31.1-17.7,27.8-35.4l-2.8-15.3
+      c-2.3-12.7,3.7-25.5,15-31.7l13.6-7.6C484.583,308.513,489.083,287.813,478.483,273.213z M244.683,402.713
+      c-87.2,0-157.9-70.7-157.9-157.9s70.7-157.9,157.9-157.9s157.9,70.7,157.9,157.9S331.883,402.713,244.683,402.713z"/>
+    <path d="M224.483,249.013l-14-14.1c-8.3-8.4-21.9-8.4-30.3-0.1l0,0c-8.4,8.3-8.4,21.9-0.1,30.3l14,14.1l15.6,15.6
+      c8.1,8.2,21.3,8.2,29.5,0.1l15.6-15.5l54.4-54.1c8.4-8.3,8.4-21.9,0.1-30.3l0,0c-8.3-8.4-21.9-8.4-30.3-0.1L224.483,249.013z"/>
+</symbol>
+    <symbol id="launch" viewBox="0 0 512 512">
+  <path d="M328.85,156.79a26.69,26.69,0,1,0,18.88,7.81A26.6,26.6,0,0,0,328.85,156.79Z"/><path d="M477.44,50.06a.29.29,0,0,1,0-.09,20.4,20.4,0,0,0-15.13-15.3c-29.8-7.27-76.68.48-128.63,21.28-52.36,21-101.42,52-134.58,85.22A320.7,320.7,0,0,0,169.55,175c-22.33-1-42,2.18-58.57,9.41-57.74,25.41-74.23,90.44-78.62,117.14a25,25,0,0,0,27.19,29h.13L124,323.53c.08.82.17,1.57.24,2.26a34.36,34.36,0,0,0,9.9,20.72l31.39,31.41a34.27,34.27,0,0,0,20.71,9.91l2.15.23-7,64.24s0,.08,0,.13A25,25,0,0,0,206,480a25.25,25.25,0,0,0,4.15-.34C237,475.34,302,459.05,327.34,401c7.17-16.46,10.34-36.05,9.45-58.34a314.78,314.78,0,0,0,33.95-29.55c33.43-33.26,64.53-81.92,85.31-133.52C476.74,128.23,484.53,81,477.44,50.06ZM370.38,224.94a58.77,58.77,0,1,1,0-83.07A58.3,58.3,0,0,1,370.38,224.94Z"/><path d="M161.93,386.44a16,16,0,0,0-11,2.67c-6.39,4.37-12.81,8.69-19.29,12.9-13.11,8.52-28.79-6.44-21-20l12.15-21a16,16,0,0,0-15.16-24.91A61.25,61.25,0,0,0,72,353.56c-3.66,3.67-14.79,14.81-20.78,57.26A357.94,357.94,0,0,0,48,447.59,16,16,0,0,0,64,464h.4a359.87,359.87,0,0,0,36.8-3.2c42.47-6,53.61-17.14,57.27-20.8a60.49,60.49,0,0,0,17.39-35.74A16,16,0,0,0,161.93,386.44Z"/>
+  
+</symbol>
+    <symbol id="support" viewBox="0 0 512 512">
+      <path d="M440.367,440.415l-10.173-29.91c-19.102-56.262-70.83-94.605-129.763-97.121c-5.187,4.03-10.655,7.493-16.322,10.521
+    c-8.449,22.185-36.836,28.195-53.468,11.205c-19.676-1.738-37.69-9.511-53.422-21.725c-58.933,2.508-110.647,40.851-129.763,97.121
+    L37.3,440.415c-2.936,8.603-1.522,18.084,3.774,25.469c5.279,7.391,13.821,11.771,22.906,11.771h349.693
+    c9.083,0,17.626-4.379,22.906-11.771C441.873,458.499,443.286,449.018,440.367,440.415z"/>
+  <path d="M277.758,290.619c34.212-24.047,58.141-77.151,58.141-128.491c0-145.907-194.133-145.752-194.133,0
+    c0,62.397,35.33,127.303,81.546,139.556c4.456-12.626,16.382-21.757,30.515-21.757C263.331,279.926,271.81,284.095,277.758,290.619
+    z"/>
+  <path d="M99.169,223.042c4.813,18.906,31.044,13.704,31.044-3.805c0-70.178,3.354-76.731-6.041-84.348
+    C145.679,2.361,330.946,3.355,353.495,134.904c-9.381,7.641-6.025,14.163-6.025,84.333c0,5.489,2.95,10.095,7.189,12.952
+    c0,54.594-22.145,51.402-88.736,69.052c-10.295-11.174-28.683-3.899-28.683,11.173c0,18.876,27.053,23.293,32.302,4.318
+    c53.762-14.256,101.018-18.752,101.018-72.484v-11.027c3.991-2.066,6.817-5.729,7.951-10.179c51.822-1.056,51.838-78.719,0-79.775
+    c-1.072-4.24-3.711-7.703-7.423-9.815c1.336-15.902-1.94-36.805-11.057-56.985C296.626-54.368,109.355-3.176,106.422,123.622
+    c-0.404,4.294-0.078,7.338,0.17,9.83c-3.712,2.112-6.351,5.575-7.423,9.815c-21.71,0.419-39.212,18.084-39.212,39.888
+    C59.957,204.958,77.459,222.622,99.169,223.042z"/>
+</symbol>
+    
+    <!-- arc travelled by the pointer -->
+    <svg x="150" y="0" width="350" height="350" viewBox="0 0 500 500">
+      <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="250.2542" y1="496.283" x2="250.2542" y2="-.2102">
+        <stop offset="0" stop-color="#169ffb"/>
+        <stop offset="1" stop-color="#169ffb" stop-opacity="0"/>
+      </linearGradient>
+      <path fill="url(#a)" d="M250.3 0c137 0 248.1 111.1 248.1 248.1S387.3 496.2 250.3 496.2 2.2 385.1 2.2 248.1 113.2 0 250.3 0C112.5 0 .8 111.7.8 249.5S112.5 499 250.3 499s249.5-111.7 249.5-249.5S388 0 250.3 0z"/>
+    </svg>
+    
+    <g id="service-collection">
+      <!-- this gets filled dynamically -->
+    </g>
+    <circle cx="325" cy="170" r="140" class="center"/>
+    <use x="185" y="30" width="280" height="280" xlink:href="#circle-nav-copy" class="nav-copy"/>
+    <!-- <rect data-url="/industries" id="learn-more" x="280" y="250" width="90" height="30" />
+    <text x="290" y="270" class="learn-more-text">Learn more</text> -->
+  </svg>
+ <!--/col-sm-6-->
+                <!--/col-sm-6-->
+                
+            </div><!--/row-->
+            
+        </div><!--/container-->
+    </section>
+
+<!--rough--->
+<section id="features-left-image" class="block work1">
+        <div class="cwork">
+            <h1 class="section-title hidden-xs1"><strong style="color: #169ffb;">Work</strong></h1>
+                   <ul class="feature-list_a">
+                                <li>Check out our featured work </li>
+                            </ul>
+        </div><!--/container-->
+    </section>
+<!--work section start-->
+
+<div id="app" class="ccontainer">
+<card onClick="location='https://www.dexbytes.com/portfolio/bigbasket-app-clone-for-grocery-business.html'" data-image="port_img/workportfolio1.webp">
+    <h9 slot="header">Grocery Store</h9>
+    <p class="pp" slot="content">Grocery Store is a prominent food, product and the grocery retail store across online platform.</p>
+  </card>
+  <card onClick="location='https://www.dexbytes.com/portfolio/housing-property-business-app-like-magicbrick.html'" data-image="port_img/workportfolio2.webp">
+    <h9 slot="header">Quick Home</h9>
+    <p class="pp" slot="content">Quick home Properties App provides a perfect platform for agency to manage all their listings as well as agents.</p>
+  </card>
+  <card onClick="location='https://www.dexbytes.com/portfolio/nykaa-app-clone-for-beauty-products.html'" data-image="port_img/workportfolio3.webp">
+    <h9 slot="header">New Trend</h9>
+    <p class="pp" slot="content">New Trend App is a nice and handy application build for you to get premier beauty products.</p>
+  </card>
+   <card onClick="location='https://www.dexbytes.com/portfolio/'" data-image="port_img/7candy.webp">
+    <h9 slot="header">More..!</h9>
+    <p class="pp" slot="content">Click here to view detailed portfolios and explore the Work which is completing your search for the requirements. </p>
+  </card>
+</div>
+<!--work section end-->
+<!--Testimonials section start-->
+<section id="features-left-image" class="block testimonial1">
+  
+            
+           <h1 class="section-title hidden-xs1"><strong style="color: #169ffb;">Testimonials</strong></h1>
+            
+    <!--/container-->
+    </section>
+    <div class="testimonialss" style="padding-bottom: 100px;">
+<div class="testimonials-container">
+  <div class="progress-bar"></div>
+  <div class="fa fa-quote-right fa-quote"></div>
+  <div class="fa fa-quote-left fa-quote"></div>
+  <p class="testimonial">"Amazing job, very fluid communication during the whole project. He is really into the job from start to finish, I will work with them again."</p>
+  <div class="centered-items">
+    <img class="logoa" src="https://incomerankings.com/img/portfolio/upwork.png" alt="image">
+    <div class="user-details">
+      <h4 class="username">Upwork Client</h4>
+      <p class="role"></p>
+    </div>
+  </div>
+</div>
+</div>
+<!--Testimonials section start-->
+<!--Footer Begins-->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-3 footer-separator">
+        <ul>
+          <li>
+            <span class="footer-title">About Us</span>
+          </li>
+          <li>
+            <p class="about-us-footer">DexBytes experience and expertise spans applications in business, entertainment, gaming, emagazines, utilities, sales presentations and marketing tools. </p>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-3 col-sm-3 footer-separator">
+        <ul>
+          <li><span class="footer-title">Services</span></li>
+          <li><a href="https://www.dexbytes.com/services/iphone-application-development.html">iPhone Application Development</a></li>
+          <li><a href="https://www.dexbytes.com/services/android-application-development.html">Android Application Development</a></li>
+          <li><a href="https://www.dexbytes.com/services/hybrid-application-development.html">Hybrid Application Development</a></li>
+          <li><a href="https://www.dexbytes.com/services/web-application-development.html">Web Application Development</a></li>
+          <!--<li><a href="web_design.html">Website Design</a></li>-->
+          <li><a href="https://www.dexbytes.com/services/mobile-ux-ui-design.html">Mobile UI/UX Design</a></li>
+        </ul>
+      </div>
+      <div class="col-md-3 col-sm-3 footer-separator">
+        <ul>
+          <li><span class="footer-title">Company</span></li>
+          <li><a href="https://www.dexbytes.com/portfolio/">Portfolio</a></li>
+          <li><a href="https://www.dexbytes.com/team.html">Team</a></li>
+          <li><a href="https://www.dexbytes.com/career.html">Career</a></li>
+          <li><a href="https://www.dexbytes.com/contact-us.html">Contact</a></li>
+          <li><a href="https://www.dexbytes.com/blog/">Blogs</a></li>
+        </ul>
+      </div>
+      <div class="col-md-3 col-sm-3 footer-contact">
+        <ul>
+          <li><span class="footer-title">Contact</span></li>
+      <li><div>1-B, Agra Bombay Road, Press Complex, Indore-452001</div></li>
+          <li>Sales : <a href="mailto:sales@dexbytes.com">sales@dexbytes.com</a></li>
+          <li>Support : <a href="mailto:sales@dexbytes.com">support@dexbytes.com</a></li>
+          <li>Skype : <a href="skype:dexbytes_in?chat">dexbytes_in</a></li>
+          <li class="footer-social">
+            <a href="https://www.facebook.com/dexbytesinfotechpvtltd/" target="_blank"><span class="fa fa-facebook"></span></a>
+            <a href="https://in.linkedin.com/company/dexbytes-infotech" target="_blank"><span class="fa fa-linkedin"></span></a>
+            <a href="https://twitter.com/dexbytes" target="_blank"><span class="fa fa-twitter"></span></a>
+            <a href="https://www.youtube.com/channel/UCjltwGG2_b_lk3YtsFak5og/featured" target="_blank"><span class="fa fa-youtube"></span></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!--Footer End-->
+<script src="port_js/process1.js"></script>
+<script src="port_js/process2.js"></script>
+<script src="port_js/work1.js"></script>
+<script src="js/script.js"></script>
+<script src="port_js/process3.js"></script>
+<script src="port_js/work2.js"></script>
+<script src="port_js/testimonials.js"></script>
+<script type="text/javascript" src="port_js/main-8248009b11d6a778a71d8627d56b0adc91be960834f1770d376bbfc0c55354b4.js"></script>
+</body>
+</html>

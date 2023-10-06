@@ -1,0 +1,84 @@
+# BROWSER CACHING USING EXPIRES HEADERS
+<IfModule mod_expires.c>
+    ExpiresActive On
+  
+    # Images
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+    ExpiresByType image/x-icon "access plus 1 year"
+  
+    # Video
+    ExpiresByType video/mp4 "access plus 1 year"
+    ExpiresByType video/mpeg "access plus 1 year"
+
+    # CSS, JavaScript
+    ExpiresByType text/css "access plus 1 week"
+    ExpiresByType text/javascript "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+
+    # Others
+    ExpiresByType application/pdf "access plus 1 month"
+    ExpiresByType application/x-shockwave-flash "access plus 1 month"
+</IfModule>
+
+# BROWSER CACHING USING CACHE-CONTROL HEADERS
+<ifModule mod_headers.c> 
+    # One year for image and video files
+    <filesMatch ".(flv|gif|ico|jpg|jpeg|mp4|mpeg|png|svg|swf|webp)$">
+        Header set Cache-Control "max-age=31536000, public"
+    </filesMatch>
+
+    # One month for JavaScript and PDF files
+    <filesMatch ".(js|pdf)$">
+        Header set Cache-Control "max-age=2592000, public"
+    </filesMatch>
+
+    # One week for CSS files
+    <filesMatch ".(css)$">
+        Header set Cache-Control "max-age=604800, public"
+    </filesMatch>
+</ifModule>
+
+
+
+ErrorDocument 404 /404.html
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+
+RewriteCond %{REQUEST_URI} ^/404/$
+RewriteRule ^(.*)$ /pages/errors/404.php [L]
+
+RewriteCond %{REQUEST_URI} ^/500/$
+RewriteRule ^(.*)$ /pages/errors/500.php [L]
+
+# or map them to one error document:
+#RewriteCond %{REQUEST_URI} ^/404/$ [OR]
+#RewriteCond %{REQUEST_URI} ^/500/$
+#RewriteRule ^(.*)$ /pages/errors/error_redirect.php [L]
+
+#Redirect 301 Old_url with New_url 
+
+Redirect 301 /dexbytes-team.html /team.html
+Redirect 301 /iphone-application-development.html /services/iphone-application-development.html
+Redirect 301 /android-application-development.html /services/android-application-development.html
+Redirect 301 /hybrid-application-development.html /services/hybrid-application-development.html
+Redirect 301 /web-application-development.html /services/web-application-development.html
+Redirect 301 /mobile-ux-ui-design.html /services/mobile-ux-ui-design.html
+Redirect 301 /dexbytes-career.html /careers.html
+Redirect 301 /contact.html /contact-us.html
+Redirect 301 /ready-app-for-grocery-business.html /bigbasket-app-clone-for-grocery-business.html
+Redirect 301 /custom-app-for-property-business.html /housing-property-business-app-like-magicbrick.html
+Redirect 301 /custom-app-for-beauty-products.html /nykaa-app-clone-for-beauty-products.html
+Redirect 301 /ready-app-for-e-commerce.html /bidding-app-for-e-commerce-business.html
+</IfModule>
+
+

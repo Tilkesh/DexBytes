@@ -1,0 +1,990 @@
+<!DOCTYPE html>
+<html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<title>Our Work | DexBytes Infotech</title>
+<meta name="description" content="Looking for the top mobile app development company in the USA, Malaysia, India? DexBytes Infotech is the best agency with over 500 apps built, offering web development services."/>
+
+<meta name="keywords" content="mobile development company, app development companies, web development services, web application development, Android application development, iPhone application development"/>
+<link rel="canonical" href="https://www.dexbytes.com/"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+
+<meta property="og:title" content="Top Web And Mobile App Development Company | DexBytes Infotech" />
+<meta property="og:description" content="Looking for the top mobile app development company in the USA, Malaysia, India? DexBytes Infotech is the best agency with over 500 apps built, offering web development services." />
+
+<meta property="og:url" content="https://www.dexbytes.com/" />
+<meta property="og:site_name" content="DexBytes Infotech" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Looking for the top mobile app development company in the USA, Malaysia, India? DexBytes Infotech is the best agency with over 500 apps built, offering web development services."/>
+
+<meta name="twitter:title" content="Top Web And Mobile App Development Company | DexBytes Infotech" />
+<link rel="stylesheet" href="css/bootstrap.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/animate.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/owl.carousel.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/text_carausal.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/portfolio.css"  type="text/css" media="all" />
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/menu.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/responsive.css" type="text/css" media="all" />
+<link rel="shortcut icon" href="images/favicon.png">
+<style>
+.filterDiv {
+   margin-bottom: 40px;
+   width: 50%;
+/*    height: 100%;*/
+  display: none;
+  padding: 10px;
+  float: left;
+}
+.btn{margin: 5px;}
+
+.show {
+  display: block;
+}
+
+.container {
+  margin-top: 20px;
+  overflow: hidden;
+}
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 5px 14px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.btn:hover {
+  background-color: #666;
+  border-radius: 50px;
+}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+  border-radius: 50px;
+}
+</style>
+</head>
+
+<body class="inner" id="boxscroll4">
+<!-- Navbar Begins -->
+ <nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation" aria-expanded="false">
+      	<span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+      </button>
+      
+      <div class="logo_sec"> <a id="trigger" class="navbar-brand" href="index.html"></a>
+        <div data-wow-delay="0s" data-wow-offset="50" class="logo_tooltip" id="pop-up">
+          <div class="left_logo">	
+			  <img class="white-logo" src="images/logo_white.svg" alt="tooltip_logo">
+			  <img class="color-logo" src="images/logo_color.svg" alt="tooltip_logo">
+            <address>
+				<span class="phone"><i class="flaticon-telephone24"></i>+91 (731)428 7985</span>
+				<br>
+				<a href="mailto:info@dexbytes.com"><i class="fa fa-envelope"></i> info@dexbytes.com</a>
+            </address>
+          </div>
+          <address>
+          	<p>1-B, Agra Bombay Road, Press Complex<br>Indore, Madhya Pradesh 452001</p>
+          	<p><a href="https://bit.ly/2TlVhJE" target="_blank"><i class="fa fa-map-marker"></i> &nbsp;Open in Google Maps</a></p>
+          	<div class="header_social">
+			  <a href="https://www.facebook.com/dexbytesinfotechpvtltd/" class="fa fa-facebook" target="_blank"></a>
+			  <a href="https://in.linkedin.com/company/dexbytes-infotech" class="fa fa-linkedin" target="_blank"></a>
+              <!--<a href="#" class="fa fa-twitter" target="_blank"></a>
+			  <a href="#" class="fa fa-google-plus" target="_blank"></a>
+			  <a class="fa fa-youtube" target="_blank" href="#"></a>-->
+			</div>
+          </address>
+        </div>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse" id="navigation">
+      <div class="menu-container">
+        <ul class="fx-menu nav-menu">
+          <li class="menu-item"><a href="https://www.dexbytes.com/index.html" class=""><span class="menu_title">Home</span></a></li>
+          <li class="menu-item" rel="About Us"><a href="https://www.dexbytes.com/about-us.html" class="" data-toggle="collapse" data-target="navigation" title="About Us"><span class="menu_title">About Us</span></a></li>
+          <li class="menu-item" rel="Services">
+             <a href="https://www.dexbytes.com/services/index.html#services" class="" title="Services"><span class="menu_title">Services <i class="fa fa-lg fa-angle-down"></i></span></a>
+             <ul>
+                 <li><a href="https://www.dexbytes.com/services/iphone-application-development.html">iPhone Application Development</a></li>
+                 <li><a href="https://www.dexbytes.com/services/android-application-development.html">Android Application Development</a></li>
+                 <li><a href="https://www.dexbytes.com/services/hybrid-application-development.html">Hybrid Application Development</a></li>
+                 <li><a href="https://www.dexbytes.com/services/web-application-development.html">Web Application Development</a></li>
+                 <li><a href="https://www.dexbytes.com/services/mobile-ux-ui-design.html">Mobile UI/UX Design</a></li>
+             </ul>
+          </li>
+          
+          <!--<li class="menu-item" rel="Products">
+             <a href="products.html" class="activelink" title="Products"><span class="menu_title">Products <i class="fa fa-lg fa-angle-down"></i></span></a>
+             <ul>
+                <li><a href="bigbasket-app-clone-for-grocery-business.html">Grocery Store</a></li>
+				        <li><a href="housing-property-business-app-like-magicbrick.html">Quick Home</a></li>
+				        <li><a href="nykaa-app-clone-for-beauty-products.html">New Trend</a></li>
+                <li><a href="bidding-app-for-e-commerce-business.html">My Price</a></li>
+                <li><a href="private-social-communication-app-like-a-whatsapp.html">Community Circle</a></li>
+            </ul>
+          </li>-->
+          <li class="menu-item" rel="Portfolio"><a href="https://www.dexbytes.com/portfolio/" class="activelink" title="Portfolio"><span class="menu_title">portfolio</span></a></li>
+          <li class="menu-item"><a href="https://www.dexbytes.com/team.html" class=""><span class="menu_title">Team</span></a></li>
+          <!--<li class="menu-item" rel="Career"><a href="https://www.dexbytes.com/career.html" class="" title="Career"> <span class="menu_title">Career</span></a></li>-->
+          <li  class="menu-item" rel="Contact Us"><a href="https://www.dexbytes.com/contact-us.html" class="" title="Contact Us"><span class="menu_title">Contact</span></a></li>
+          <li  class="menu-item" rel="Blogs"><a href="https://www.dexbytes.com/blog" class="" title="Blogs"><span class="menu_title">Blogs</span></a></li>
+          <!--<li class="menu-item" rel="More">
+             <a href="" class="" title="More"><span class="menu_title">More <i class="fa fa-lg fa-angle-down"></i></span></a>
+             <ul>
+                 <li><a href="https://www.dexbytes.com/blog">Blogs</a></li>
+                 <li><a href="https://www.dexbytes.com/blog/f1">Flutter Tutorial</a></li>
+             </ul>
+          </li>-->
+        </ul>
+      </div>
+    </div>
+    <!-- /.navbar-collapse --> 
+  </div>
+  <!-- /.container-fluid --> 
+</nav>
+<!-- Navbar end here -->
+
+<!-- Home Section Begins -->
+ <section id="home" class="productpagee" style="height: 20%;">
+  <div class="home">
+    <div class="home-content carousel slide carousel-fade" id="carousel-slider">
+      <div class="carousel-inner">
+        <!--<div class="item active" style="min-height:680px;">-->
+          <div class="carousel-caption wow zoomInDown" data-wow-offset="50" data-wow-duration="1s" data-wow-delay="0s">
+            <!--<h1><span>Showcase </span>of our work</h1>
+            <p>From idea to reality, here are some apps & webs which prove our work</p>-->
+          </div>
+		</div>
+    </div> 
+  </div>
+</div>  
+</section>
+<!-- Home Section End -->
+
+<!--Service list -->
+<section class="clearfix product-list" style="padding-top: 5px !important;">
+	<div class="container">
+		<p class="h1 text-center">Portfolio</p>
+		<br>
+    <p></p>
+    <h1 style="text-align: center;"><span>Showcase </span>of our work</h1>
+            <p style="text-align: center;"><b>From idea to reality, here are some apps & webs which proves our work</b></p><br>
+		<p></p>
+    <br>
+    <div class="bute" style="display: inline-flex;">
+    <div id="myBtnContainer">
+  <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+  <button class="btn" onclick="filterSelection('demand')"> On-Demand Apps</button>
+  <button class="btn" onclick="filterSelection('clone')"> Clone Apps</button>
+  <button class="btn" onclick="filterSelection('website')"> Websites</button>
+</div>
+<div style="font-size: 1.8em;"><a>|</a></div>
+<div id="myBtnContainer">
+<button class="btn" onclick="window.location.href='https://www.dexbytes.com/portfolio/flutter-modules.html';"> Flutter Custom Modules</button>
+</div>
+</div>
+		<!--<p class="h2 text-center"> Low in cost, Minimum in Time consuming, Tested Multiple time, 360-degree change in design</p>-->
+	
+	<div class="col-md-12 nopadding-xs">
+        <div class="row">
+            <div class="filterDiv demand">
+				
+                <div class="products">
+					<a href="https://www.dexbytes.com/portfolio/bigbasket-app-clone-for-grocery-business.html">
+						<div class="">
+							<img src="images/product_grocey.png" width="640" height="360" alt="Grocey Store Mobile App"/>
+						</div>
+						<div class="product-content">
+							<h5 class="text-left text-lg-center">Grocery Store Application</h5>
+							<p class="m-0">Food App
+
+							</p>
+						</div>
+					</a>
+                </div>        
+		    </div>
+            <div class="filterDiv demand">
+                <div class="products">
+					<a href="https://www.dexbytes.com/portfolio/housing-property-business-app-like-magicbrick.html">
+						<div class="">
+							<img src="images/product_quick.png" width="640" height="360" alt="Quick Home Application"/>
+						</div>
+						<div class="product-content">
+							<h5 class="text-left text-lg-center">Quick Home Application</h5>
+							<p class="m-0">Propery App
+
+							</p>
+						</div>
+					</a>
+                </div>         
+	      </div>
+           
+            <div class="filterDiv demand">
+                <div class="products">
+					<a href="https://www.dexbytes.com/portfolio/nykaa-app-clone-for-beauty-products.html">
+						<div class="">
+							<img src="images/product_new_trend.png" width="640" height="360" alt="New Trend Application"/>
+						</div>
+						<div class="product-content">
+							<h5 class="text-left text-lg-center">New Trend Application</h5>
+							<p class="m-0">Fasion App.
+
+							</p>
+						</div>
+					</a>
+                </div>          
+		    </div>
+     
+        
+<div class="filterDiv demand">
+                <div class="products">
+					<a href="https://www.dexbytes.com/portfolio/bidding-app-for-e-commerce-business.html">
+						<div class="">
+							<img src="images/product_price.png" width="640" height="360" alt="My Price Application"/>
+						</div>
+						<div class="product-content">
+							<h5 class="text-left text-lg-center">My Price Application</h5>
+							<p class="m-0">Bidding App
+
+							</p>
+						</div>
+					</a>
+                </div>          
+		    </div>
+      
+
+        <div class="filterDiv demand website">
+                <div class="products">
+          <a href="https://www.dexbytes.com/portfolio/private-social-communication-app-like-instagram.html">
+            <div class="">
+              <img src="images/product_community.png" width="640" height="360" alt="Community Circle Application"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">Community Circle Application</h5>
+              <p class="m-0">Social App
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div>
+        <div class="filterDiv demand website">
+                <div class="products">
+					<a href="https://www.dexbytes.com/portfolio/ready-app-for-betace.html">
+						<div class="">
+							<img src="images/product_betace.png" width="640" height="360" alt="Betace"/>
+						</div>
+						<div class="product-content">
+							<h5 class="text-left text-lg-center">Betace</h5>
+							<p class="m-0">Sports Bet App
+
+							</p>
+						</div>
+					</a>
+                </div>         
+	      </div>
+        <div class="filterDiv demand">
+                <div class="products">
+          <a href="https://www.dexbytes.com/portfolio/ready-app-for-recharge-point.html">
+            <div class="">
+              <img src="images/product_power.png" width="640" height="360" alt="Recharge Point"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">Recharge Point</h5>
+              <p class="m-0">Business App
+
+              </p>
+            </div>
+          </a>
+                </div>         
+        </div>
+        <div class="filterDiv demand">
+                <div class="products">
+          <a href="https://www.dexbytes.com/portfolio/ready-app-for-work-hangout.html">
+            <div class="">
+              <img src="images/product-work_hangouts.png" width="640" height="360" alt="Work Hangouts"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">Work Hangouts</h5>
+              <p class="m-0">Communication App
+
+              </p>
+            </div>
+          </a>
+                </div>         
+        </div>
+
+         <div class="filterDiv demand website">
+                <div class="products">
+          <a href="https://www.dexbytes.com/portfolio/Urbanclap_clone.html">
+            <div class="">
+              <img src="images/product-urbanclap_clone1.png" width="640" height="360" alt="On Demand Service App"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">On Demand Service App (Urbanclap_clone)</h5>
+              <p class="m-0">Service App
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div>
+        <div class="filterDiv demand website">
+                <div class="products">
+          <a href="https://www.dexbytes.com/portfolio/hotel-on-mobile.html">
+            <div class="">
+              <img src="images/product-Hotel_management.png" width="640" height="360" alt="Hotel On Mobile App"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">Hotel On Mobile (Agoda Clone)</h5>
+              <p class="m-0">Hotel Rooms Booking App
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div>
+          <!--<div class="filterDiv clone">
+                <div class="products">
+					<a href="https://www.dexbytes.com/portfolio/zoom-clone-app.html" class="" target="_blank">
+						<div class="">
+							<img src="images/product-zoom clone.png" width="640" height="360" alt="Grocey Store Mobile App"/>
+						</div>
+						<div class="product-content">
+							<h5 class="text-left text-lg-center">Instameeting (Zoom Clone)</h5>
+							<p class="m-0">Virtual Meeting App
+
+							</p>
+						</div>
+					</a>
+                </div>           
+		    </div>-->
+        <!--<new-section>-->
+           <!--<div class="filterDiv clone">
+                <div class="products">
+          <a href="">
+            <div class="">
+              <img src="images/product-Uber Clone Taxi App123123.png" width="640" height="360" alt="Grocey Store Mobile App"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">Uber Clone Taxi App</h5>
+              <p class="m-0">Taxi Booking App 
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div>
+         <div class="filterDiv clone">
+                <div class="products">
+          <a href="">
+            <div class="">
+              <img src="images/product-zomato clone App.png" width="640" height="360" alt="Grocey Store Mobile App"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">zomato clone App</h5>
+              <p class="m-0">Food Delivery App
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div>-->
+         <!--<div class="filterDiv website">
+                <div class="products">
+          <a href="ready-app-for-community-circle.html">
+            <div class="">
+              <img src="images/product-Bigbasket clone app.png" width="640" height="360" alt="Grocey Store Mobile App"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">bigbasket clone App</h5>
+              <p class="m-0">Grocery Delivery App
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div>-->
+        <!--  <div class="filterDiv clone">
+                <div class="products">
+          <a href="">
+            <div class="">
+              <img src="images/product-Doctor on Demand Clone App.png" width="640" height="360" alt="Grocey Store Mobile App"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">Doctor on Demand Clone App</h5>
+              <p class="m-0">Health and Fitness Apps
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div>
+         <div class="filterDiv clone">
+                <div class="products">
+          <a href="">
+            <div class="">
+              <img src="images/product-Stripe Clone App.png" width="640" height="360" alt="Grocey Store Mobile App"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">Stripe Clone App</h5>
+              <p class="m-0">Payment App
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div>
+         <div class="filterDiv clone">
+                <div class="products">
+          <a href="">
+            <div class="">
+              <img src="images/product-MakeMyTrip Clone App.png" width="640" height="360" alt="Grocey Store Mobile App"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">MakeMyTrip Clone App</h5>
+              <p class="m-0">Travel App
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div>
+         <div class="filterDiv clone">
+                <div class="products">
+          <a href="">
+            <div class="">
+              <img src="images/product-Trivago Clone App.png" width="640" height="360" alt="Grocey Store Mobile App"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">Trivago Clone App</h5>
+              <p class="m-0">Hotel Booking App
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div>
+         <div class="filterDiv clone">
+                <div class="products">
+          <a href="">
+            <div class="">
+              <img src="images/product-Market Watch Clone App.png" width="640" height="360" alt="Grocey Store Mobile App"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">Market Watch Clone App</h5>
+              <p class="m-0">Finance and Market App
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div>
+        <div class="filterDiv clone">
+                <div class="products">
+          <a href="">
+            <div class="">
+              <img src="images/Product-Get Look Salon App.png" width="640" height="360" alt="Grocey Store Mobile App"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">Get Look Salon App</h5>
+              <p class="m-0">Salon App
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div><div class="filterDiv clone">
+                <div class="products">
+          <a href="">
+            <div class="">
+              <img src="images/product-BBC News Clone.png" width="640" height="360" alt="Grocey Store Mobile App"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">BBC News Clone App</h5>
+              <p class="m-0">News App
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div><div class="filterDiv clone">
+                <div class="products">
+          <a href="">
+            <div class="">
+              <img src="images/product-Instagram Clone.png" width="640" height="360" alt="Grocey Store Mobile App"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">Instagram Clone</h5>
+              <p class="m-0">Social Media App
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div><div class="filterDiv clone">
+                <div class="products">
+          <a href="">
+            <div class="">
+              <img src="images/product-Likee App Clone.png" width="640" height="360" alt="Grocey Store Mobile App"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">Likee App Clone</h5>
+              <p class="m-0">Entertainment App
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div><div class="filterDiv clone">
+                <div class="products">
+          <a href="">
+            <div class="">
+              <img src="images/product-Amazon Clone.png" width="640" height="360" alt="Grocey Store Mobile App"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">Amazon Clone</h5>
+              <p class="m-0">E-Commerce App
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div><div class="filterDiv clone">
+                <div class="products">
+          <a href="">
+            <div class="">
+              <img src="images/product-Byju’s Clone App.png" width="640" height="360" alt="Grocey Store Mobile App"/>
+            </div>
+            <div class="product-content">
+              <h5 class="text-left text-lg-center">Byju’s Clone App</h5>
+              <p class="m-0">Education App
+
+              </p>
+            </div>
+          </a>
+                </div>          
+        </div> -->
+        </div>
+        
+	</div>
+	</div>
+  <script>
+filterSelection("all")
+function filterSelection(c) {
+  var x, i;
+  x = document.getElementsByClassName("filterDiv");
+  if (c == "all") c = "";
+  // Add the "show" class (display:block) to the filtered elements, and remove the "show" class from the elements that are not selected
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
+
+// Show filtered elements
+function w3AddClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    if (arr1.indexOf(arr2[i]) == -1) {
+      element.className += " " + arr2[i];
+    }
+  }
+}
+
+// Hide elements that are not selected
+function w3RemoveClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) {
+      arr1.splice(arr1.indexOf(arr2[i]), 1);
+    }
+  }
+  element.className = arr1.join(" ");
+}
+
+// Add active class to the current control button (highlight it)
+var btnContainer = document.getElementById("myBtnContainer");
+var btns = btnContainer.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+</script>
+</section>
+<!--Service list -->
+
+<!-- Our work Section Begins -->
+<!--<section id="portfolio">
+	<div class="portfolio">
+		<div class="container">
+            <p class="h1">Work</p>
+            <p>Check out our featured work</p>
+        </div>
+    	<div class="container-fluid">
+            <ul id="portfolio-img">
+               
+				<!-- Aircon -->
+                <!--<li class="portfolio-item">
+                    <img src="images/portfolio/aircon.jpg" class="img-responsive" alt="Aircon">
+					<img src="images/portfolio/aircon@2x.jpg" class="img-responsive twox" alt="Aircon">
+                    <div class="mask mask-double">
+                        <h4 onclick="hideShow1(this);">Aircon</h4>
+                        <a href="#" target="_blank">
+                            <span class="portfolio_googleplay one-i"></span>
+                        </a>
+                        <a href="#" target="_blank">
+                            <span class="portfolio_appstore two-i"> </span>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div class="portfolio-popap aircon black">
+                        <div class="portfolio-content">
+                            <div class="col-md-7 col-xs-12">
+                                <img src="images/portfolio/aircon_app.png" alt="Aircon"/>
+                            </div>
+                            <div class="col-md-5 column-right col-xs-12">
+                                <h2 class="popap-title">Aircon</h2>
+                                <p class="popap-text">
+                                   A prominent leader in the service market. We specialize in sales, installations, Annual maintenance Contract, repairs and corrective maintenance for domestic and industrial customers. It’s been a few years since the company has initiated and made benchmarks during this period through delighting services.
+                                </p>
+                               
+                                <a href="#"
+                                   target="_blank" class="popap-link popap-link_ios "></a>
+                                <a href="#"
+                                   target="_blank" class="popap-link popap-link_google "></a>
+                                <div class="clear">&nbsp;</div>
+                            </div>
+                        </div>
+                        <a href="javascript:void(0);" onclick="Next('happyrent');" class="arrow arrow_right arrow_right_dark"></a>
+                        <a href="javascript:void(0);" class="portfolio-popap__close black_close" onclick="Close()"></a>
+                    </div>
+                </li>-->
+				
+				<!-- Happy Rent -->
+                <!--<li class="portfolio-item smartcity">
+                    <img src="images/portfolio/happyrent.png" class="img-responsive" alt="Happy Rent">
+					<img src="images/portfolio/happyrent@2x.png" class="img-responsive twox" alt="Happy Rent">
+                    <div class="mask mask-double">
+                        <h4 onclick="hideShow1(this);">Happy Rent</h4>
+						<a href="#" target="_blank">
+                            <span class="portfolio_googleplay one-i"></span>
+                        </a>
+                        <a href="#" target="_blank">
+                            <span class="portfolio_appstore two-i"> </span>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div class="portfolio-popap happyrent">
+                        <div class="portfolio-content">
+                            <div class="col-md-7 col-xs-12">
+                                <img src="images/portfolio/happyrent_app.png" alt="Happy Rent" />
+                            </div>
+                            <div class="col-md-4 column-right col-xs-12">
+                                <h2 class="popap-title">Happy Rent</h2>
+                                <p class="popap-text">
+                                    Happy Rent is an app design and built for landlord and tenant, it is an interactive app to let's landlord and tenant interact with each other in a direct and easiest way.<br><br>
+
+Happy Rent consists of 2 modules which are called Happy Landlord and Happy Tenant. Happy Landlord make tenant management easier than ever, it can be done on-the-go, digitally, no more paper, all automatically.<br><br>
+
+On the other hand, Happy Tenant make rental payment as simple as 1-2-3. All invoices and receipts stored on the cloud, allowed for access anywhere and anytime.
+<br><br>
+Happy Rent also lets landlord and tenant make report/ or complaint, make sure everyone is taken care.
+<br><br>
+Happy Rent designed for everyone, and we believe Happy Tenant, Happy Landlord.
+                                </p>
+								<a href="#" target="_blank" class="popap-link popap-link_ios "></a>
+								<a href="#" target="_blank" class="popap-link popap-link_google "></a>
+                                <div class="clear">&nbsp;</div>
+                            </div>
+                        </div>
+                        <a href="javascript:void(0);" onclick="Prev('aircon');" class="arrow arrow_left"></a>
+						<a href="javascript:void(0);" onclick="Next('icares');" class="arrow arrow_right arrow_right_dark"></a>
+                        <a href="javascript:void(0);" class="portfolio-popap__close" onclick="Close()"></a>
+                    </div>
+                </li>-->
+               
+				<!-- iCares -->
+                <!--<li class="portfolio-item">
+                    <img src="images/portfolio/icares.jpg" class="img-responsive" alt="iCares">
+					<img src="images/portfolio/icares@2x.jpg" class="img-responsive twox" alt="iCares">
+                    <div class="mask mask-double">
+                        <h4 onclick="hideShow(this);">iCares</h4>
+                        <a href="">
+                            <span class="portfolio_googleplay one-i"></span>
+                        </a>
+                        <a href="">
+                            <span class="portfolio_appstore two-i"> </span>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div class="portfolio-popap icares">
+                        <div class="portfolio-content">
+                            <div class="col-md-7 col-xs-12">
+                                <img src="images/portfolio/icares_app.png" alt="iCares"/>
+                            </div>
+                            <div class="col-md-4 column-right col-xs-12">
+                                <h2 class="popap-title">iCares</h2>
+                                <p class="popap-text">
+                                    iCARES, stands for Integrated Community and Resident System. iCARES was designed and built to creates a caring community, build a convenience, safe and secure living environment in mind. This app aims to connect between Resident, JMB/ MC, Building Management and Security.
+								</p>
+                                <a href="#" target="_blank" class="popap-link popap-link_ios"></a>
+                                <a href="#" target="_blank" class="popap-link popap-link_google "></a>
+                                <div class="clear">&nbsp;</div>
+                            </div>
+                        </div>
+                        <a href="javascript:void(0);" onclick="Prev('happyrent');" class="arrow arrow_left"></a>
+                        <a href="javascript:void(0);" class="portfolio-popap__close" onclick="Close()"></a>
+                    </div>
+                </li>
+				
+				<li class="portfolio-item Lets" style="display: inline-block;" data-bound="">
+                    <a href="portfolio.html" class="btn">
+                        Click here to view detailed portfolio
+                    </a>
+                </li>
+            </ul>
+        </div>
+	</div>
+</section>-->
+<!-- our work Section End -->
+
+<!-- Service Industrie Section Begins -->
+<section id="industry">
+	<div class="container">
+		<h2>Service Industries</h2>
+		<p>We have served in many industries for their design, development or marketing needs. Some of them are mentioned below.</p>
+		<div class="industries clearfix">
+			<div class="col-md-3 col-sm-6 industyr_list">
+				<div class="industry_img"><img src="images/food.svg" alt=""/></div>
+				<h4>Restaurant</h4>
+				<ul>
+					<li>Restaurant Apps</li>
+					<li>Online Food Ordering App</li>
+					<li>On-demand Food Delivery app</li>
+				</ul>
+			</div>
+			<div class="col-md-3 col-sm-6 industyr_list">
+				<div class="industry_img"><img src="images/logistic.svg" alt=""/></div>
+				<h4>Transportation/Logistic</h4>
+				<ul>
+			<li>Fleet Management App</li>
+			<li>Warehouse Management App</li>
+			<li>Vehicle Tracking App</li>
+			</ul>
+			</div>
+			<div class="col-md-3 col-sm-6 industyr_list">
+				<div class="industry_img"><img src="images/health-care.svg" alt=""/></div>
+				<h4>Healthcare</h4>
+				<ul>
+			<li>Health Monitoring App</li>
+			<li>Chronic Care Management App</li>
+			<li>Medication Adherence App</li>
+			</ul>
+			</div>
+			<div class="col-md-3 col-sm-6 industyr_list">
+				<div class="industry_img"><img src="images/travel.svg" alt=""/></div>
+				<h4>Travel</h4>
+				<ul>
+			<li>Tour Planning App</li>
+			<li>Travel Assistant App</li>
+			<li>Travel booking App</li>
+			</ul>
+			</div>
+			
+		</div>
+		<div class="border_line"></div>
+		<div class="industries clearfix">
+			<div class="col-md-3 col-sm-6 industyr_list">
+				<div class="industry_img"><img src="images/education.svg" alt=""/></div>
+				<h4>Education</h4>
+				<ul>
+			<li>E-Learning Mobile App</li>
+			<li>Online Coaching App</li>
+			<li>School Management App</li>
+			</ul>
+			</div>
+			<div class="col-md-3 col-sm-6 industyr_list">
+				<div class="industry_img"><img src="images/store.svg" alt=""/></div>
+				<h4>ecommerce/retail shop</h4>
+				<ul>
+			<li>Retail Store App</li>
+			<li>Multi Store Mobile App</li>
+			<li>Ecommerce Mobile App</li>
+			</ul>
+			</div>
+			<div class="col-md-3 col-sm-6 industyr_list">
+				<div class="industry_img"><img src="images/real_estate.svg" alt=""/></div>
+				<h4>Real Estate</h4>
+				<ul>
+			<li>Property Buy/Sale App</li>
+			<li>Agent/Broker Mobile App</li>
+			<li>Mortgage Calculation App</li>
+			</ul>
+			</div>
+			<div class="col-md-3 col-sm-6 industyr_list">
+				<div class="industry_img"><img src="images/entertainment.svg" alt=""/></div>
+				<h4>Entertainment</h4>
+				<ul>
+			<li>Music/Video App</li>
+			<li>Social Networking App</li>
+			<li>Photo Editing App</li>
+			</ul>
+			</div>
+			
+		</div>
+	</div>
+</section>
+<!-- Service Industrie Section End -->
+
+<!--Footer Begins-->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-3 footer-separator">
+        <ul>
+          <li>
+            <span class="footer-title">About Us</span>
+          </li>
+          <li>
+            <p class="about-us-footer">DexBytes experience and expertise spans applications in business, entertainment, gaming, emagazines, utilities, sales presentations and marketing tools. </p>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-3 col-sm-3 footer-separator">
+        <ul>
+          <li><span class="footer-title">Services</span></li>
+          <li><a href="https://www.dexbytes.com/services/iphone-application-development.html">iPhone Application Development</a></li>
+          <li><a href="https://www.dexbytes.com/services/android-application-development.html">Android Application Development</a></li>
+          <li><a href="https://www.dexbytes.com/services/hybrid-application-development.html">Hybrid Application Development</a></li>
+          <li><a href="https://www.dexbytes.com/services/web-application-development.html">Web Application Development</a></li>
+          <!--<li><a href="web_design.html">Website Design</a></li>-->
+          <li><a href="https://www.dexbytes.com/services/mobile-ux-ui-design.html">Mobile UI/UX Design</a></li>
+        </ul>
+      </div>
+      <div class="col-md-3 col-sm-3 footer-separator">
+        <ul>
+          <li><span class="footer-title">Company</span></li>
+          <li><a href="https://www.dexbytes.com/portfolio/">Portfolio</a></li>
+          <li><a href="https://www.dexbytes.com/team.html">Team</a></li>
+          <li><a href="https://www.dexbytes.com/career.html">Career</a></li>
+          <li><a href="https://www.dexbytes.com/contact-us.html">Contact</a></li>
+          <li><a href="https://www.dexbytes.com/blog/">Blogs</a></li>
+        </ul>
+      </div>
+      <div class="col-md-3 col-sm-3 footer-contact">
+        <ul>
+          <li><span class="footer-title">Contact</span></li>
+      <li><div>1-B, Agra Bombay Road, Press Complex, Indore-452001</div></li>
+          <li>Sales : <a href="mailto:sales@dexbytes.com">sales@dexbytes.com</a></li>
+          <li>Support : <a href="mailto:sales@dexbytes.com">support@dexbytes.com</a></li>
+          <li>Skype : <a href="skype:dexbytes_in?chat">dexbytes_in</a></li>
+          <li class="footer-social">
+            <a href="https://www.facebook.com/dexbytesinfotechpvtltd/" target="_blank"><span class="fa fa-facebook"></span></a>
+            <a href="https://in.linkedin.com/company/dexbytes-infotech" target="_blank"><span class="fa fa-linkedin"></span></a>
+            <a href="https://twitter.com/dexbytes" target="_blank"><span class="fa fa-twitter"></span></a>
+            <a href="https://www.youtube.com/channel/UCjltwGG2_b_lk3YtsFak5og/featured" target="_blank"><span class="fa fa-youtube"></span></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!--Footer End-->
+	
+<!--Modal Windows Begins-->
+<div id="quote" class="modal fade in" role="dialog">
+		<div class="modal-dialog">
+    	<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Get a free quote</h4>
+			  	</div>
+				<div class="modal-body clearfix">
+						<form id="request-qoute" method="post" onSubmit="return false;">
+								<div class="form-message col-xs-12" style="margin-top: 15px; display:none;"></div>
+							<div class="col-md-6 col-sm-6">
+													<div class="form-group">
+														<label class="contact_label">Name:*</label>
+														<input type="text" placeholder="Name" id="name" name="name" class="form-control" required="">
+														<label style="display: none;" class="error" for="name" id="name_error">This field is required.</label> 
+													</div>
+												</div>
+							<div class="col-md-6 col-sm-6">
+													<div class="form-group">
+														<label class="contact_label">Contact No.:*</label>
+														<input type="text" placeholder="Contact No." name="contact_no" id="contact_no" class="form-control" required="">
+														<label style="display: none;" class="error" for="contact_no" id="contact_no_error">This field is required.</label> 
+													</div>
+												</div>
+							<div class="col-md-6 col-sm-6">
+														<div class="form-group">
+															<label class="contact_label">Email:*</label>
+															<input type="email" name="email" class="form-control" id="email" placeholder="Enter your E-mail" required="">
+															<label style="display: none;" class="error" for="email" id="email_error">This field is required.</label>
+														</div>
+													</div>
+							<div class="col-md-6 col-sm-6">
+														<div class="form-group">
+															<label class="contact_label">Company Name</label>
+															<input type="text" placeholder="Company Name" name="company" id="company" class="form-control" required="">
+															<label style="display: none;" class="error" for="months" id="months_error">This field is required.</label>
+														</div>
+														<div class="clear"></div>
+													</div>				
+							<div class="col-md-12">
+								<div class="form-group">
+									<label class="contact_label">Please attach required file:</label>
+									<input type="file" name="attach_file" id="attach_file" class="form-control" accept="application/msword,application/pdf">
+								</div>
+							</div>
+							<div class="col-md-12">
+								<div class="form-group">
+									<label class="contact_label">Enter your project details</label>
+									<textarea placeholder="Cover Letter " name="cover_letter" id="cover_letter" class="form-control"></textarea>
+								</div>
+							</div>
+							<div class="col-md-12">
+								<div class="form-group">
+									<button type="submit" class="btn btn-submit pull-right" id="submit-request-quote">Submit</button>
+								</div>
+							</div>
+						</form>
+					<div class="clear"></div>             
+			  	</div>
+			</div>
+ 		</div>
+	</div>
+<div style="display:none;" id="message" class="success">Your quotation request has been sent succussefully!<br>Our representative will get back to you soon.</div>
+<!--Modal Windows End-->
+	
+
+<!--Write script under this line--> 
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.validate.min.js"></script>
+<script src="js/script.js"></script>
+<!--<script src="js/wow.min.js"></script>-->
+<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>

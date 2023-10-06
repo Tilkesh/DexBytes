@@ -1,0 +1,634 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<title>Andorid | IOS | HTML5 App, Web & Software Development | DexBytes</title>
+<meta name="description" content="We Design and Develop both Native & Hybrid Apps, Web & Software Solutions for the USA, UK, Australia, Malaysia, India & gulf countries."/>
+
+<meta name="keywords" content="mobile app development, mobile app development company, mobile app developers, offshore development company, offshore it services, Outsourced Product Development, outsource software development, hire mobile app developer, custom mobile app development, android mobile app development, Web Application Development, Software Testing Services, best mobile app developers, mobile app development agency, ios app development, Custom Software Development Services Company, custom web application development, Mobile development company, app development companies, web development services, web application development, Android application development, iPhone application development, pembangunan aplikasi, 应用开发, 應用開發,تطوير التطبيق, développement d'applications,разработка приложений"/>
+<link rel="canonical" href="http://www.dexbytes.com/"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.dexbytes.com/images/logo_color.svg" />
+
+<meta property="og:title" content="Andorid / IOS / HLML5 App, Web & Software Development | DexBytes" />
+<meta property="og:description" content="We Design and Develop both Native & Hybrid Apps, Web & Software Solutions in the USA, UK, Australia, Malaysia, India & gulf countries. We delivered 1000+ Apps & Web projects." />
+
+<meta property="og:url" content="http://www.dexbytes.com/" />
+<meta property="og:site_name" content="DexBytes Infotech" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="We Design and Develop both Native & Hybrid Apps, Web & Software Solutions in the USA, UK, Australia, Malaysia, India & gulf countries. We delivered 1000+ Apps & Web projects." />
+<meta name="twitter:title" content="Andorid / IOS / HLML5 App, Web & Software Development | DexBytes" />
+<link rel="stylesheet" href="css/bootstrap.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/animate.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/owl.carousel.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/text_carausal.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/portfolio.css"  type="text/css" media="all" />
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/menu.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/support_tab.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/responsive.css" type="text/css" media="all" />
+<link rel="shortcut icon" href="images/favicon.png">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154132335-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-154132335-1');
+</script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6CE12H5FWK"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6CE12H5FWK');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153760478-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153760478-2');
+</script>
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "DexBytes",
+  "url" : "https://www.dexbytes.com",
+  "sameAs" : [ "https://www.facebook.com/dexbytes.apps.3",
+    "https://www.linkedin.com/in/dexbytes-infotech-36511610b",
+    "https://twitter.com/dexbytes"] 
+}
+</script>
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "url": "https://www.dexbytes.com",
+      "logo": "https://www.dexbytes.com/images/logo.png"
+    }
+    </script>
+
+
+</head>
+
+<body id="boxscroll4">
+<!-- Navbar Begins -->
+ <nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+     
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation" aria-expanded="false">
+      	<span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+      </button>
+      
+      <div class="logo_sec"> <a id="trigger" class="navbar-brand" href="index.html"></a>
+        <div data-wow-delay="0s" data-wow-offset="50" class="logo_tooltip" id="pop-up">
+          <div class="left_logo">	
+			  <img class="white-logo" src="images/logo_white.svg" alt="dexbytes_logo">
+			  <img class="color-logo" src="images/logo_color.svg" alt="dexbytes_logo">
+            <address>
+				<span class="phone"><i class="flaticon-telephone24"></i>+91 (731)428 7985</span>
+				<br>
+				<a href="mailto:info@dexbytes.com"><i class="fa fa-envelope"></i> info@dexbytes.com</a>
+            </address>
+          </div>
+          <address>
+          	<p>1-B, Agra Bombay Road, Press Complex<br>Indore, Madhya Pradesh 452001</p>
+          	<p><a href="https://bit.ly/2TlVhJE" target="_blank"><i class="fa fa-map-marker"></i> &nbsp;Open in Google Maps</a></p>
+          	<div class="header_social">
+			  <a href="https://www.facebook.com/dexbytesinfotechpvtltd/" class="fa fa-facebook" target="_blank"></a>
+			  <a href="https://in.linkedin.com/company/dexbytes-infotech" class="fa fa-linkedin" target="_blank"></a>
+              <!--<a href="#" class="fa fa-twitter" target="_blank"></a>
+			  <a href="#" class="fa fa-google-plus" target="_blank"></a>
+			  <a class="fa fa-youtube" target="_blank" href="#"></a>-->
+			</div>
+          </address>
+        </div>
+      </div>
+    </div>
+    <div class="navbar-collapse collapse" id="navigation">
+      <div class="menu-container">
+        <ul class="fx-menu nav-menu navbar-nav">
+         <li class="menu-item"><a href="#home" class="menu-item-link"><span class="menu_title">Home</span></a></li>
+         <li class="menu-item" rel="About Us"><a href="#about" class="menu-item-link" title="About Us"><span class="menu_title">About Us</span></a></li>
+         <li class="menu-item" rel="Services"><a href="#services" class="menu-item-link" title="Services"><span class="menu_title">Services <i class="fa fa-lg fa-angle-down"></i></span></a>
+         <ul>
+		 	 <li><a href="iphone-application-development.html">iPhone Application Development</a></li>
+			 <li><a href="android-application-development.html">Android Application Development</a></li>
+			 <li><a href="hybrid-application-development.html">Hybrid Application Development</a></li>
+			 <li><a href="web-application-development.html">Web Application Development</a></li>
+			 <!--<li><a href="web_design.html">Website Design</a></li>-->
+			 <li><a href="mobile-ux-ui-design.html">Mobile UI/UX Design</a></li>
+		 </ul>
+         </li>
+         <li class="menu-item" rel="Products">
+             <a href="products.html" title="Products"><span class="menu_title">Products <i class="fa fa-lg fa-angle-down"></i></span></a>
+             <ul>
+                 <li><a href="bigbasket-app-clone-for-grocery-business.html">Grocery Store</a></li>
+				 <li><a href="housing-property-business-app-like-magicbrick.html">Quick Home</a></li>
+				 
+				 <li><a href="nykaa-app-clone-for-beauty-products.html">New Trend</a></li>
+                 <li><a href="bidding-app-for-e-commerce-business.html">My Price</a></li>
+                 <li><a href="private-social-communication-app-like-a-whatsapp.html">Community Circle</a></li>
+            </ul>
+         </li>
+         <!--<li class="menu-item"><a href="#process" class="menu-item-link"><span class="menu_title">Process</span></a></li>-->
+         <li class="menu-item" rel="Portfolio"><a href="#portfolio" class="menu-item-link" title="Portfolio"><span class="menu_title">portfolio</span></a></li>
+          <li class="menu-item"><a href="team.html" class="menu-item-link"><span class="menu_title">Team</span></a></li>
+          <li class="menu-item" rel="Career"><a href="career.html" class="menu-item-link" title="Career"> <span class="menu_title">Career</span></a></li>
+          <li  class="menu-item" rel="Contact Us"><a href="contact-us.html" class="menu-item-link" title="Contact Us"><span class="menu_title">Contact</span></a></li>
+          <li  class="menu-item" rel="Blogs"><a href="https://www.dexbytes.com/blog" class="" title="Blogs"><span class="menu_title">Blogs</span></a></li>
+        </ul>
+      </div>
+    </div>
+    <!-- /.navbar-collapse --> 
+  </div>
+  <!-- /.container-fluid --> 
+</nav>
+<!-- Navbar end here -->
+
+<!-- Home Section Begins -->
+<section id="home">
+  <div class="home">
+    <div class="hero-nav">
+      <ul>
+        <li class="nav-iosapp">
+          <div class="nav-content" style="font-family: 'Titillium Web';">
+            <p>We are experts in iOS Development.</p>
+          </div>
+          <a href="iphone-application-development.html" target="_blank" style="font-family: 'Titillium Web';">iPhone/iPad Application</a></li>
+        <li class="nav-androidapp">
+          <div class="nav-content" style="font-family: 'Titillium Web';">
+            <p>We have a proficient expertise in creating android application</p>
+          </div>
+          <a href="android-application-development.html" target="_blank" style="font-family: 'Titillium Web';">Android Application</a></li>
+        <li class="nav-webapp">
+          <div class="nav-content" style="font-family: 'Titillium Web';">
+            <p>We have good team of developers and architects providing technologies.</p>
+          </div>
+          <a href="web-application-development.html" target="_blank" style="font-family: 'Titillium Web';">Web Application</a></li>
+        <li class="nav-hypridapp">
+          <div class="nav-content" style="font-family: 'Titillium Web';">
+            <p>We have the competence to combine the potential of HTML5 development with the advanced mobile frameworks.</p>
+          </div>
+          <a href="hybrid-application-development.html" target="_blank" style="font-family: 'Titillium Web';">Hybrid Application</a></li>
+      </ul>
+    </div>
+    <div class="home-content carousel slide carousel-fade" id="carousel-slider">
+      <ol class="carousel-indicators slider_indicators">
+        <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-slider" data-slide-to="1"></li>
+        <li data-target="#carousel-slider" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="item active" style="min-height:680px;">
+          <div class="carousel-caption wow zoomInDown" data-wow-offset="50" data-wow-duration="1s" data-wow-delay="0s">
+            <h1><span>Mobile</span> Application<strong> with</strong> Ease</h1>
+            <p>Sleek, Intuitive and Scalable mobile App Development</p>
+          </div>
+		</div>
+        <div class="item " style="min-height:680px;">
+          <div class="carousel-caption wow zoomInDown" data-wow-offset="50" data-wow-duration="1s" data-wow-delay="0s">
+            <h1><span>Web</span> <strong>Development</strong></h1>
+            <p>Clean, elegant and powerful Web product development</p>
+        </div>
+		  </div>
+        <div class="item " style="min-height:680px;">
+          <div class="carousel-caption wow zoomInDown" data-wow-offset="50" data-wow-duration="1s" data-wow-delay="0s">
+            <h1><span>Responsive</span> <strong>Design</strong></h1>
+            <p>We create innovative projects, keeping in mind all our clients desires.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>  
+</section>
+<!-- Home Section End -->
+
+<!-- About Section Begins -->
+<section id="about">
+	<video loop autoplay poster="images/poster.jpg" class="video-bg">
+    	<source src="videos/office2.mp4" type="video/mp4">
+	</video>
+    <div class="video-overlay"></div>
+    <div class="home_about">
+    	<div class="container">
+        	<p class="h1">About Us</p>
+            <p>
+            	DexBytes experience and expertise spans applications in business, entertainment, gaming, emagazines, utilities, sales presentations and marketing tools. Our team has experts, with a passion for technology and an eye for detail. <br><br>Lets bring your application to life, together...
+            </p>
+            <div class=" col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">
+            	<div class="wow fadeInRight" data-wow-offset="50" data-wow-duration="1" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInRight;">
+                    	
+					<figure class="project col-sm-6">
+                    		<span>&nbsp;</span>
+                    		<figcaption>
+                    			<div class="big">400+</div>Projects
+                    		</figcaption>
+              				<div class="clearfix"></div>
+              			</figure>
+                        
+                    <figure class="coding col-sm-6">
+                        	<span>&nbsp;</span>
+                        	<figcaption>
+                        		<div class="big">35,000+</div>Development Hours
+                        	</figcaption>
+              				<div class="clearfix"></div>
+              			</figure>
+                      
+                    <figure class="team col-sm-6">
+                        	<span>&nbsp;</span>
+                        	<figcaption>
+                        		<div class="big">50+</div>Experts Team
+                        	</figcaption>
+                        	<div class="clearfix"></div>
+                        </figure>
+                        
+                    <figure class="years col-sm-6">
+                        	<span>&nbsp;</span>
+                        	<figcaption>
+                        		<div class="big">5+</div>Years of Business
+                        	</figcaption>
+              				<div class="clearfix"></div>
+              			</figure>
+					<div class="col-md-12 col-sm-12 text-right mt-20">
+						<a href="https://www.dexbytes.com/about-us.html" class="readmore">Read More...</a>
+					</div>
+                </div>
+        	</div>
+        </div>
+    </div>
+</section>
+<!-- Home Section End -->
+
+<!-- Services Section Begins -->
+<section id="services">
+	<div class="services">
+		<div class="container">
+			<p class="h1">Services</p>
+			<p>
+            	DexBytes develops apps for end-users, enterprises and acts as a b2b development partner across various industries. Our process involves your participation at every stage of product creation while we consult and guide you through.
+				<br><br>We invite you to intimately participate in the app development process. By understanding the process logic, you can continuously improve and elaborate on your ideas. We ensure a most robust and effective implementation.
+            </p>
+            <div class=" col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">
+            	<div class="wow fadeInLeft" data-wow-offset="50" data-wow-duration="1" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
+					<div class="row">
+						<div class="col-md-4 service-icon">
+							<a href="iphone-application-development.html">
+								<h3><i class="fa fa-apple"></i> iOS</h3>
+								<h4>Custom applications for iPhone, iPad and Apple Watch effectively designed and perfectly optimized.</h4>
+							</a>
+						</div>
+						<div class="col-md-4 service-icon">
+							<a href="android-application-development.html">
+								<h3><i class="fa fa-android"></i> Android</h3>
+								<h4>Unique solutions for Android smartphones and tablets, balanced and scaled to support various devices.</h4>
+							</a>
+						</div>
+						<div class="col-md-4 service-icon">
+							<a href="hybrid-application-development.html">
+								<h3><i class="fa fa-code"></i> Hybrid</h3>
+								<h4>Our developers uses latest technology including HTML5, CSS3, JavaScript, etc. to work on hybrid application.</h4>
+							</a>
+						</div>
+						<div class="col-md-4 service-icon">
+							<a href="web-application-development.html">
+								<h3><i class="fa fa-globe"></i> Web App</h3>
+								<h4>Web applications, landing pages, and back-end solutions for mobile apps optimized for peak loads.</h4>
+							</a>
+						</div>
+						<div class="col-md-4 service-icon">
+							
+								<h3><i class="fa fa-paint-brush"></i> Web Design</h3>
+								<h4>We make best use of Bootstrap to give your website that extra power and elegance.</h4>
+							
+						</div>
+						<div class="col-md-4 service-icon">
+							<a href="mobile_ux_ui_design.html">
+								<h3><i class="fa fa-mobile-phone"></i>Mobile UI/UX</h3>
+								<h4>Our design is more than just a collection of words and images. We focus on delighting the user.</h4>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Services Section End -->
+
+<!-- Process Section Begins -->
+<section id="process">
+	<div class="process">
+		<div class="container">
+			<p class="h1">Process</p>
+			<p>Successful apps are more than just clean UI/ UX or code development. Our continuous app deployment cycle includes user acquisition, improving on yourapp ideas and scaling them, effectively acting as your business-cum-technology partners.</p>
+			<div class="nav-box"> <span class="nav nav-prev"></span> <span class="nav nav-next"></span> </div>
+			<div class="myslider">
+ 				<div class="slider">
+				  <div class="slider-panel">
+					<div class="slider-item">
+						<div class="col-md-3"><img src="images/process_idea.svg" alt="idea"></div>
+						<div class="col-md-9">
+							<h1>Step 1. <span>IDEA</span></h1>
+							<p>To begin, we listen to your idea, evaluate it, and choose the optimal way to realize the project.</p>
+						</div>
+					</div>
+				  </div>
+				  <div class="slider-panel">
+					<div class="slider-item">
+						<div class="col-md-3"><img src="images/process_market.svg" alt="market"></div>
+						<div class="col-md-9">
+							<h1> Step 2. <span>MARKET ANALYSIS</span></h1>
+							<p>We then research the market and find the advantage that your application has over the competition and we give our recommendations and additions if necessary.</p>
+						</div>
+					</div>
+				  </div>
+				  <div class="slider-panel">
+					<div class="slider-item">
+						<div class="col-md-3"><img src="images/process_responsive.svg" alt="responsive"></div>
+						<div class="col-md-9">
+							<h1> Step 3. <span >SCREEN PROTOTYPES</span></h1>
+							<p>After that we begin the development of a functional and intuitive interface that will be seamless for you and your users.</p>
+						</div>
+					</div>
+				  </div>
+				  <div class="slider-panel">
+					<div class="slider-item">
+						<div class="col-md-3"><img src="images/process_design.svg" alt="design"></div>
+						<div class="col-md-9">
+							<h1> Step 4. <span>DESIGN</span></h1>
+							<p>If required we create a unique design that is ideally suited to your specific application.</p>
+						</div>
+					</div>
+				  </div>
+				  <div class="slider-panel">
+					<div class="slider-item">
+						<div class="col-md-3"><img src="images/process_code.svg" alt="process"></div>
+						<div class="col-md-9">
+							<h1> Step 5. <span>DEVLOPMENT</span></h1>
+							<p>At this stage we present you with a full prototype of the application.</p>
+						</div>
+					</div>
+				  </div>
+				  <div class="slider-panel">
+					<div class="slider-item">
+						<div class="col-md-3"><img src="images/process_testing.svg" alt="testing"></div>
+						<div class="col-md-9">
+							<h1> Step 6. <span>TESTING</span></h1>
+							<p>We thoroughly test the resulting product, evaluate the quality of idea realisation, usability and functionality of the project.</p>
+						</div>
+					</div>
+				  </div>
+				  <div class="slider-panel">
+					<div class="slider-item">
+						<div class="col-md-3"><img src="images/process_deploy.svg" alt="deploy"></div>
+						<div class="col-md-9">
+							<h1>Step 7. <span>LAUNCH</span></h1>
+							<p>In the end we prepare all the necessary materials to place your application on the AppStore and Google Play.</p>
+						</div>
+					</div>
+				  </div>
+				  <div class="slider-panel">
+					<div class="slider-item">
+						<div class="col-md-3"><img src="images/process_support.svg" alt="Support"></div>
+						<div class="col-md-9">
+							<h1>Step 8. <span>SUPPORT</span></h1>
+							<p>We will always be ready to help and modify your project at any point following the launch.</p>
+						</div>
+					</div>
+				  </div>
+				</div>
+				<div class="tab-box"> </div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Process Section End -->
+
+<!-- Our work Section Begins -->
+<section id="portfolio">
+	<div class="portfolio">
+		<div class="container">
+            <p class="h1">Work</p>
+            <p>Check out our featured work</p>
+        </div>
+    	<div class="container-fluid">
+            <ul id="portfolio-img">
+               
+				<!-- Aircon -->
+                <li class="portfolio-item">
+                    <img src="images/portfolio/aircon.jpg" class="img-responsive" alt="Aircon">
+					<img src="images/portfolio/aircon@2x.jpg" class="img-responsive twox" alt="Aircon">
+                    <div class="mask mask-double">
+                        <h4 onclick="hideShow1(this);">Aircon</h4>
+                        <a href="#" target="_blank">
+                            <span class="portfolio_googleplay one-i"></span>
+                        </a>
+                        <a href="#" target="_blank">
+                            <span class="portfolio_appstore two-i"> </span>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div class="portfolio-popap aircon black">
+                        <div class="portfolio-content">
+                            <div class="col-md-7 col-xs-12">
+                                <img src="images/portfolio/aircon_app.png" alt="Aircon"/>
+                            </div>
+                            <div class="col-md-5 column-right col-xs-12">
+                                <h2 class="popap-title">Aircon</h2>
+                                <p class="popap-text">
+                                   A prominent leader in the service market. We specialize in sales, installations, Annual maintenance Contract, repairs and corrective maintenance for domestic and industrial customers. It’s been a few years since the company has initiated and made benchmarks during this period through delighting services.
+                                </p>
+                               
+                                <a href="#"
+                                   target="_blank" class="popap-link popap-link_ios "></a>
+                                <a href="#"
+                                   target="_blank" class="popap-link popap-link_google "></a>
+                                <div class="clear">&nbsp;</div>
+                            </div>
+                        </div>
+                        <a href="javascript:void(0);" onclick="Next('happyrent');" class="arrow arrow_right arrow_right_dark"></a>
+                        <a href="javascript:void(0);" class="portfolio-popap__close black_close" onclick="Close()"></a>
+                    </div>
+                </li>
+				
+				<!-- Happy Rent -->
+                <li class="portfolio-item smartcity">
+                    <img src="images/portfolio/happyrent.png" class="img-responsive" alt="Happy Rent">
+					<img src="images/portfolio/happyrent@2x.png" class="img-responsive twox" alt="Happy Rent">
+                    <div class="mask mask-double">
+                        <h4 onclick="hideShow1(this);">Happy Rent</h4>
+						<a href="#" target="_blank">
+                            <span class="portfolio_googleplay one-i"></span>
+                        </a>
+                        <a href="#" target="_blank">
+                            <span class="portfolio_appstore two-i"> </span>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div class="portfolio-popap happyrent">
+                        <div class="portfolio-content">
+                            <div class="col-md-7 col-xs-12">
+                                <img src="images/portfolio/happyrent_app.png" alt="Happy Rent" />
+                            </div>
+                            <div class="col-md-4 column-right col-xs-12">
+                                <h2 class="popap-title">Happy Rent</h2>
+                                <p class="popap-text">
+                                    Happy Rent is an app design and built for landlord and tenant, it is an interactive app to let's landlord and tenant interact with each other in a direct and easiest way.<br><br>
+
+Happy Rent consists of 2 modules which are called Happy Landlord and Happy Tenant. Happy Landlord make tenant management easier than ever, it can be done on-the-go, digitally, no more paper, all automatically.<br><br>
+
+On the other hand, Happy Tenant make rental payment as simple as 1-2-3. All invoices and receipts stored on the cloud, allowed for access anywhere and anytime.
+<br><br>
+Happy Rent also lets landlord and tenant make report/ or complaint, make sure everyone is taken care.
+<br><br>
+Happy Rent designed for everyone, and we believe Happy Tenant, Happy Landlord.
+                                </p>
+								<a href="#" target="_blank" class="popap-link popap-link_ios "></a>
+								<a href="#" target="_blank" class="popap-link popap-link_google "></a>
+                                <div class="clear">&nbsp;</div>
+                            </div>
+                        </div>
+                        <a href="javascript:void(0);" onclick="Prev('aircon');" class="arrow arrow_left"></a>
+						<a href="javascript:void(0);" onclick="Next('icares');" class="arrow arrow_right arrow_right_dark"></a>
+                        <a href="javascript:void(0);" class="portfolio-popap__close" onclick="Close()"></a>
+                    </div>
+                </li>
+               
+				<!-- iCares -->
+                <li class="portfolio-item">
+                    <img src="images/portfolio/icares.jpg" class="img-responsive" alt="iCares">
+					<img src="images/portfolio/icares@2x.jpg" class="img-responsive twox" alt="iCares">
+                    <div class="mask mask-double">
+                        <h4 onclick="hideShow(this);">iCares</h4>
+                        <a href="">
+                            <span class="portfolio_googleplay one-i"></span>
+                        </a>
+                        <a href="">
+                            <span class="portfolio_appstore two-i"> </span>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div class="portfolio-popap icares">
+                        <div class="portfolio-content">
+                            <div class="col-md-7 col-xs-12">
+                                <img src="images/portfolio/icares_app.png" alt="iCares"/>
+                            </div>
+                            <div class="col-md-4 column-right col-xs-12">
+                                <h2 class="popap-title">iCares</h2>
+                                <p class="popap-text">
+                                    iCARES, stands for Integrated Community and Resident System. iCARES was designed and built to creates a caring community, build a convenience, safe and secure living environment in mind. This app aims to connect between Resident, JMB/ MC, Building Management and Security.
+								</p>
+                                <a href="#" target="_blank" class="popap-link popap-link_ios"></a>
+                                <a href="#" target="_blank" class="popap-link popap-link_google "></a>
+                                <div class="clear">&nbsp;</div>
+                            </div>
+                        </div>
+                        <a href="javascript:void(0);" onclick="Prev('happyrent');" class="arrow arrow_left"></a>
+                        <a href="javascript:void(0);" class="portfolio-popap__close" onclick="Close()"></a>
+                    </div>
+                </li>
+				
+				<li class="portfolio-item Lets" style="display: inline-block;" data-bound="">
+                    <a href="portfolio.html" class="btn">
+                        Click here to view detailed portfolio
+                    </a>
+                </li>
+            </ul>
+        </div>
+	</div>
+</section>
+<!-- our work Section End -->
+
+<!--Footer Begins-->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-3 footer-separator">
+        <ul>
+          <li>
+            <span class="footer-title">About Us</span>
+          </li>
+          <li>
+            <p class="about-us-footer">DexBytes experience and expertise spans applications in business, entertainment, gaming, emagazines, utilities, sales presentations and marketing tools. </p>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-3 col-sm-3 footer-separator">
+        <ul>
+          <li><span class="footer-title">Services</span></li>
+          <li><a href="iphone_application_development.html">iPhone Application Development</a></li>
+          <li><a href="android_application_development.html">Android Application Development</a></li>
+          <li><a href="hybrid_application_development.html">Hybrid Application Development</a></li>
+          <li><a href="web_application_development.html">Web Application Development</a></li>
+          <!--<li><a href="web_design.html">Website Design</a></li>-->
+          <li><a href="mobile_ux_ui_design.html">Mobile UI/UX Design</a></li>
+        </ul>
+      </div>
+      <div class="col-md-3 col-sm-3 footer-separator">
+        <ul>
+          <li><span class="footer-title">Company</span></li>
+          <li><a href="portfolio.html">Portfolio</a></li>
+          <li><a href="dexbytes_team.html">Team</a></li>
+          <li><a href="dexbytes_career.html">Career</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div class="col-md-3 col-sm-3 footer-contact">
+        <ul>
+          <li><span class="footer-title">Contact</span></li>
+		  <li><div>1-B, Agra Bombay Road, Press Complex, Indore-452001</div></li>
+          <li>Sales : <a href="mailto:sales@dexbytes.com">sales@dexbytes.com</a></li>
+          <li>Support : <a href="mailto:sales@dexbytes.com">support@dexbytes.com</a></li>
+          <li>Skype : <a href="skype:dexbytes_in?chat">dexbytes_in</a></li>
+          <li class="footer-social">
+            <a href="https://www.facebook.com/dexbytesinfotechpvtltd/" target="_blank"><span class="fa fa-facebook"></span></a>
+            <a href="https://in.linkedin.com/company/dexbytes-infotech" target="_blank"><span class="fa fa-linkedin"></span></a>
+            <!--<a href="#" target="_blank"><span class="fa fa-twitter"></span></a>
+            <a href="#" target="_blank"><span class="fa fa-youtube"></span></a>-->
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!--Footer End-->
+	
+<!--Write script under this line--> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/script.js"></script>
+<!--<script src="js/jquery.nicescroll.min.js"></script>-->
+<script>
+  $('.navbar-collapse a').click(function (e) {
+    $('.navbar-collapse').collapse('toggle');
+  });
+      
+//  $(document).ready(function() {
+//  var nice = $("html").niceScroll();  // The document page (body)
+//    $("#boxscroll4").niceScroll("#boxscroll4 .wrapper",{boxzoom:true});  // hw acceleration enabled when using wrapper
+//  });
+</script>
+
+</body>
+</html>
